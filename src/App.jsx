@@ -1,5 +1,6 @@
 import { useState } from "react";
 import {
+  cdGetFolderName,
   generateGetCommand,
   getFolderName,
   getVideoName,
@@ -10,6 +11,7 @@ function App() {
   const [GetCommand, setGetCommand] = useState("red");
   const [ConversionCommand, setConversionCommand] = useState("red");
   const [folderName, setFolderName] = useState("red");
+  const [changeFolderName, setChangeFolderName] = useState("red");
 
   const [showUrl, setShowUrl] = useState("");
   const [inputDetails, setInputDetails] = useState({
@@ -27,7 +29,7 @@ function App() {
 
   const copyLink = (type) => {
     if (inputDetails.videoPath !== null && inputDetails.videoPath.length) {
-      if (type === "120p") {
+      if (type === "mkdir") {
         const extractedFileName = getFolderName(inputDetails.videoPath);
         setShowUrl(extractedFileName);
 
@@ -35,6 +37,18 @@ function App() {
           .writeText(extractedFileName)
           .then(() => {
             setFolderName("blue");
+          })
+          .catch((error) => console.log("Error copying text: ", error));
+      }
+
+      if (type === "cd") {
+        const extractedFileName = cdGetFolderName(inputDetails.videoPath);
+        setShowUrl(extractedFileName);
+
+        navigator.clipboard
+          .writeText(extractedFileName)
+          .then(() => {
+            setChangeFolderName("blue");
           })
           .catch((error) => console.log("Error copying text: ", error));
       }
@@ -87,10 +101,24 @@ function App() {
             className="text-white flex justify-between items-center border-[1px] border-black p-2 rounded-xl"
           >
             <p className="text-[.9rem] font-semibold" id="240pCommandText">
-              Folder Name
+              Make Folder Command
             </p>
             <button
-              onClick={() => copyLink("120p")}
+              onClick={() => copyLink("mkdir")}
+              className="bg-blue-600 p-1 px-2 text-[.8rem] font-bold text-white rounded-xl"
+            >
+              Copy
+            </button>
+          </div>
+          <div
+            style={{ backgroundColor: changeFolderName }}
+            className="text-white flex justify-between items-center border-[1px] border-black p-2 rounded-xl"
+          >
+            <p className="text-[.9rem] font-semibold" id="240pCommandText">
+              Change Dir Command
+            </p>
+            <button
+              onClick={() => copyLink("cd")}
               className="bg-blue-600 p-1 px-2 text-[.8rem] font-bold text-white rounded-xl"
             >
               Copy
