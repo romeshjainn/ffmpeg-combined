@@ -2,8 +2,8 @@ import { useState } from "react";
 import {
   cdGetFolderName,
   generateGetCommand,
-  getFolderName,
   getVideoName,
+  mkdirGetFolderName,
 } from "./utils/getFileName";
 
 function App() {
@@ -30,7 +30,7 @@ function App() {
   const copyLink = (type) => {
     if (inputDetails.videoPath !== null && inputDetails.videoPath.length) {
       if (type === "mkdir") {
-        const extractedFileName = getFolderName(inputDetails.videoPath);
+        const extractedFileName = mkdirGetFolderName(inputDetails.videoPath);
         setShowUrl(extractedFileName);
 
         navigator.clipboard

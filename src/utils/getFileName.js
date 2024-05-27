@@ -8,6 +8,13 @@ export function getFolderName(path) {
   const fileName = getFileName(path);
   const folderName1 = fileName.replace(/-/g, " ").replace(/\s+/g, "-");
   const folderNameArr = folderName1.split(".");
+  return folderNameArr[0];
+}
+
+export function mkdirGetFolderName(path) {
+  const fileName = getFileName(path);
+  const folderName1 = fileName.replace(/-/g, " ").replace(/\s+/g, "-");
+  const folderNameArr = folderName1.split(".");
   return `mkdir ${folderNameArr[0]}`;
 }
 
