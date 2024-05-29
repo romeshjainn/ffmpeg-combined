@@ -25,12 +25,6 @@ export function cdGetFolderName(path) {
   return `cd ${folderNameArr[0]}`;
 }
 
-console.log(
-  getFolderName(
-    "s3://gurbani-prod/Chuka-Nihora/Chuka Nihora 1 - Intro and Discussion.mp4"
-  )
-);
-
 export const generateGetCommand = (path) => {
   const videoPath = path.substring(18);
   const rootPath = videoPath.split("/")[0];
