@@ -10,7 +10,7 @@ import { getVideoName } from "./utils/getFileName";
 function Master() {
   const [input, setInput] = useState("");
   const [command, setCommand] = useState("");
-
+  const [inputArray, setInputArray] = useState([]);
   const handleCommandChange = (e) => {
     setCommand(e.target.value);
   };
@@ -88,8 +88,10 @@ function Master() {
 
     if (ref.current.value) {
       const getInput = makeArray(input || "");
+      const trimmedGetInput = getInput.map((path) => path.trim());
+      setInputArray(trimmedGetInput);
       if (getInput.length) {
-        generateCommand(getInput);
+        generateCommand(trimmedGetInput);
       }
       // ref.current.value = false;
     }
@@ -134,6 +136,9 @@ function Master() {
           value={command}
           onChange={(e) => handleCommandChange(e)}
         ></textarea>
+        {/* <pre className="text-wrap">
+          <code>{JSON.stringify(inputArray, null, 2)}</code>
+        </pre> */}
 
         {/* <p>{command}</p> */}
       </div>
