@@ -11,6 +11,10 @@ function Master() {
   const [input, setInput] = useState("");
   const [command, setCommand] = useState("");
 
+  const handleCommandChange = (e) => {
+    setCommand(e.target.value);
+  };
+
   const generateCommand = (data) => {
     const actualFolderName = data[0].split("/");
     const firstCommand = `mkdir ${actualFolderName[3]} && cd ${actualFolderName[3]}`;
@@ -57,7 +61,19 @@ function Master() {
       `s3cmd put --recursive ./* s3://gurbani-prod/${getFolderPathName(
         data[1]
       )}/`.replace(/^[-\s]+|[-\s]+$/g, "");
-    setCommand(firstCommand + " && " + masterCommand + putFilesCommand);
+    setCommand(
+      firstCommand +
+        " && " +
+        masterCommand +
+        putFilesCommand +
+        " && " +
+        "cd .." +
+        " && " +
+        "rm -r " +
+        `'${actualFolderName[3]}'` +
+        " && " +
+        `echo '${actualFolderName[3]} folder completed'`
+    );
   };
   const ref = useRef({ value: true });
   useEffect(() => {
@@ -112,11 +128,11 @@ function Master() {
           </button>
         </div>
         <textarea
-          className="h-full w-full border-2 border-black rounded-xl"
+          className="h-full w-full border-2 border-black rounded-xl text-[1rem] p-2"
           name=""
           id=""
           value={command}
-          readOnly
+          onChange={(e) => handleCommandChange(e)}
         ></textarea>
 
         {/* <p>{command}</p> */}
