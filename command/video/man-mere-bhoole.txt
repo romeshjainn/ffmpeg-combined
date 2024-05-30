@@ -1,0 +1,9 @@
+"s3://gurbani-prod/Man-Mere-Bhoole-Khamaaj/Man Mere Bhoole (Punjabi) - Asthai Tutorial (Male Scale).mp4",
+"s3://gurbani-prod/Man-Mere-Bhoole-Khamaaj/Man Mere Bhoole (Punjabi) 1 - Introduction.mp4",
+"s3://gurbani-prod/Man-Mere-Bhoole-Khamaaj/Man Mere Bhoole (Punjabi) 6 - Taan Tutorial.mp4",
+"s3://gurbani-prod/Man-Mere-Bhoole-Khamaaj/Man Mere Bhoole (Punjabi) 7 - Full shabad demonstration (male Scale).mp4",
+"s3://gurbani-prod/Man-Mere-Bhoole-Khamaaj/Man Mere Bhoole (Punjabi) 8 - Full shabad demonstration (Female scale).mp4",
+"s3://gurbani-prod/Man-Mere-Bhoole-Khamaaj/Man Mere Bhoole (punjabi) - Asthai Tutorial (Female scale).mp4",
+"s3://gurbani-prod/Man-Mere-Bhoole-Khamaaj/Man Mere Bhoole 6 - Antra Tutorial (Female Scale).mp4",
+
+MAN MERE BHOOLE KHAMAAJ

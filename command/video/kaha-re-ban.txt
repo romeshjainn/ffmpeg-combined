@@ -1,0 +1,8 @@
+"s3://gurbani-prod/Kahe-Re-Ban/Kahe Re Ban 2 - Shabad Discussion 1.mp4",
+"s3://gurbani-prod/Kahe-Re-Ban/Kahe Re Ban 4 - Asthai Tutorial.mp4",
+"s3://gurbani-prod/Kahe-Re-Ban/Kahe Re Ban 1 - Raag Discussion .mp4",
+"s3://gurbani-prod/Kahe-Re-Ban/Kahe Re Ban 6 - Antra Tutorial - Line 2  1.mp4",
+"s3://gurbani-prod/Kahe-Re-Ban/Kahe Re Ban 3 - Note on Composition.mp4",
+"s3://gurbani-prod/Kahe-Re-Ban/Kahe Re Ban 8 - Full shabad demonstration - Female scale.mp4",
+"s3://gurbani-prod/Kahe-Re-Ban/Kahe Re Ban 5 - Antra Tutorial - First Line.mp4",
+"s3://gurbani-prod/Kahe-Re-Ban/Kahe Re Ban 7 - Full shabad demonstration - Male scale 1.mp4",

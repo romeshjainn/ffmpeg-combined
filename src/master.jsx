@@ -10,14 +10,29 @@ import { getVideoName } from "./utils/getFileName";
 function Master() {
   const [input, setInput] = useState("");
   const [command, setCommand] = useState("");
-  const [inputArray, setInputArray] = useState([]);
+
   const handleCommandChange = (e) => {
     setCommand(e.target.value);
   };
 
+  const data = [
+    "s3://gurbani-prod/Ranga-Mein-Vari/Ranga Mein Vaari 1 - Intro and Raag Discussion.mp4",
+    "s3://gurbani-prod/Ranga-Mein-Vari/Ranga Mein Vaari 10 - Antra Line 2 - Tutorial (C#).mov",
+    "s3://gurbani-prod/Ranga-Mein-Vari/Ranga Mein Vaari 11 - Full shabad demonstration - C#.mov",
+    "s3://gurbani-prod/Ranga-Mein-Vari/Ranga Mein Vaari 12 - Full shabad demonstration - A#.mov",
+    "s3://gurbani-prod/Ranga-Mein-Vari/Ranga Mein Vaari 2 - Shabad Discussion.mov",
+    "s3://gurbani-prod/Ranga-Mein-Vari/Ranga Mein Vaari 3 - Raag and Composition Discussion.mov",
+    "s3://gurbani-prod/Ranga-Mein-Vari/Ranga Mein Vaari 4 - Asthai First Line Tutorial (Male scale C#).mov",
+    "s3://gurbani-prod/Ranga-Mein-Vari/Ranga Mein Vaari 5 - Asthai Second Line Tutorial (Male scale C#).mov",
+    "s3://gurbani-prod/Ranga-Mein-Vari/Ranga Mein Vaari 6 - Asthai Third Line Tutorial (Male scale C#).mov",
+    "s3://gurbani-prod/Ranga-Mein-Vari/Ranga Mein Vaari 7 - Full Asthai Demonstration (Male Scale C#).mov",
+    "s3://gurbani-prod/Ranga-Mein-Vari/Ranga Mein Vaari 8 - Bandish Variations.mov",
+    "s3://gurbani-prod/Ranga-Mein-Vari/Ranga Mein Vaari 9 - Antra Line 1 - Tutorial.mov",
+  ];
+
   const generateCommand = (data) => {
     const actualFolderName = data[0].split("/");
-    const firstCommand = `mkdir ${actualFolderName[3]} && cd ${actualFolderName[3]}`;
+    const firstCommand = `mkdir '${actualFolderName[3]}' && cd '${actualFolderName[3]}'`;
 
     let command = "";
     let masterCommand = "";
@@ -77,44 +92,42 @@ function Master() {
   };
   const ref = useRef({ value: true });
   useEffect(() => {
-    function makeArray(paths) {
-      const arr = paths.split("s3://");
-      const finalArray = arr.map((path) => {
-        return `s3://${path}`;
-      });
-      finalArray.shift();
-      return finalArray;
-    }
+    // function makeArray(paths) {
+    //   const arr = paths.split("s3://");
+    //   const finalArray = arr.map((path) => {
+    //     return `s3://${path}`;
+    //   });
+    //   finalArray.shift();
+    //   return finalArray;
+    // }
 
     if (ref.current.value) {
-      const getInput = makeArray(input || "");
-      const trimmedGetInput = getInput.map((path) => path.trim());
-      setInputArray(trimmedGetInput);
-      if (getInput.length) {
-        generateCommand(trimmedGetInput);
-      }
+      // const getInput = makeArray(input || "");
+      // if (getInput.length) {
+      generateCommand(data);
+      // }
       // ref.current.value = false;
     }
-  }, [input]);
+  }, [input, command]);
 
   useEffect(() => {
     console.log(command);
   }, [command, input]);
 
   return (
-    <div className="grid place-items-center h-screen bg-[#eaeaea]">
-      <div className="border-2 border-black p-4 w-1/2 h-[70%] gap-4 flex flex-col rounded-2xl">
+    <div className="grid place-items-center h-screen bg-white text-[2.7vh]">
+      <div className="border-2 border-black bg-[#eaeaea] p-4 w-[65%] h-[80%] gap-4 flex flex-col rounded-[7px]">
         <input
           type="text"
           placeholder="ENTER THE PATH"
-          className="border-2 border-black p-3 w-full rounded-xl"
+          className="border-2 border-black p-2 w-full rounded-[7px]"
           id=""
           onChange={(e) => {
             setInput(e.target.value);
           }}
         />
-        <div className="flex justify-between border-2 border-black p-2 bg-blue-500 items-center rounded-xl">
-          <p className="font-bold text-xl text-white">Command</p>
+        <div className=" text-[2.7vh] flex justify-between border-2 border-black p-1 bg-blue-500 items-center rounded-[7px]">
+          <p className="font-bold text-white">Command</p>
           <button
             onClick={() => {
               navigator.clipboard
@@ -124,23 +137,18 @@ function Master() {
                 })
                 .catch((error) => console.log("Error copying text: ", error));
             }}
-            className="bg-black  rounded-xl text-white font-bold  p-2"
+            className="bg-black  rounded-[7px] text-white font-bold  p-1"
           >
             Copy Command
           </button>
         </div>
         <textarea
-          className="h-full w-full border-2 border-black rounded-xl text-[1rem] p-2"
+          className="h-full w-full border-2 border-black rounded-[7px] text-[2.3vh] font-medium p-2"
           name=""
           id=""
           value={command}
           onChange={(e) => handleCommandChange(e)}
         ></textarea>
-        {/* <pre className="text-wrap">
-          <code>{JSON.stringify(inputArray, null, 2)}</code>
-        </pre> */}
-
-        {/* <p>{command}</p> */}
       </div>
     </div>
   );

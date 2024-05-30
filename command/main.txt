@@ -1,0 +1,6 @@
+ssh root@170.64.201.135
+Gr4trJ5cf2yi6!A
+
+s3cmd ls s3://gurbani-prod/Prabh-Milbe-Ko-Preet-Man-Laagi/
+
+https://combined-ffmpeg.netlify.app/

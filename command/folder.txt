@@ -1,0 +1,83 @@
+ssh root@170.64.201.135
+Gr4trJ5cf2yi6!A
+
+do again
+Tu-Na-Bisaar-(Hindi)-10-Full-shabad-demonstration-Male-scale - last video
+
+
+processing :-
+1full video
+Hum-Ghar-Sajan-Aaye
+
+more-content
+tu-har-Bisaar
+
+Bhoomiya bhoom
+chuka nihora
+Gao-Gao-Ri-Dulhani
+Ghungroo-Vaaje
+
+s3cmd ls s3://gurbani-prod/1Full-Videos/
+s3cmd ls s3://gurbani-prod/Aa-gaye-sab-Khelat-hori2/
+s3cmd ls s3://gurbani-prod/Aiso-Kaun-Bali-Chhoti-Teental/
+s3cmd ls s3://gurbani-prod/Aiso-kaun-Bali-Dhamar/
+s3cmd ls s3://gurbani-prod/Basant-Ki-Vaar/
+s3cmd ls s3://gurbani-prod/Bavar-Soe-rahe-Bihaagra/
+s3cmd ls s3://gurbani-prod/Beginner-Series/
+s3cmd ls s3://gurbani-prod/Bhoomiya-Bhoom/
+s3cmd ls s3://gurbani-prod/Bigrio Kabeera - Alhaiya Biilawal/Videos/English/  
+s3cmd ls s3://gurbani-prod/Chuka-Nihora/
+s3cmd ls s3://gurbani-prod/Dekh Phool Phool/
+s3cmd ls s3://gurbani-prod/Dekhau Bhai/
+s3cmd ls s3://gurbani-prod/FAQ/
+s3cmd ls s3://gurbani-prod/Gao-Gao-Ri-Dulhani/
+s3cmd ls s3://gurbani-prod/Ghol Ghumai - Tukhari/
+s3cmd ls s3://gurbani-prod/Ghungroo-Vaaje/
+s3cmd ls s3://gurbani-prod/Hamari-Pyari-(Hameer)/
+s3cmd ls s3://gurbani-prod/Har Charan Saran - Bhimpalasi/
+s3cmd ls s3://gurbani-prod/Har-Har-Naam-Japantia-Asa/
+s3cmd ls s3://gurbani-prod/Hau Dhoodendi - Abhogi Kanra/
+s3cmd ls s3://gurbani-prod/Hum Ghar Sajan Aaye/
+s3cmd ls s3://gurbani-prod/Hum-Ghar-Sajan-Aaye/
+s3cmd ls s3://gurbani-prod/Je Gur Charni - Gauri/
+s3cmd ls s3://gurbani-prod/Jithe-Jaaye/
+s3cmd ls s3://gurbani-prod/Jo-Nar-Dukh-Mein/
+s3cmd ls s3://gurbani-prod/Jo-Sir-Saayi/
+s3cmd ls s3://gurbani-prod/Kahe-Re-Ban/
+s3cmd ls s3://gurbani-prod/Kanik-Kamini/
+s3cmd ls s3://gurbani-prod/Karta-Kareem-Soyi/
+s3cmd ls s3://gurbani-prod/Kavan-Bani-Ri-Teri-Laali/
+s3cmd ls s3://gurbani-prod/Keerat Karan Saran Manmohan/
+s3cmd ls s3://gurbani-prod/Lallan-Raviya-Kavan/
+s3cmd ls s3://gurbani-prod/Man-Mere-Bhoole-Khamaaj/
+s3cmd ls s3://gurbani-prod/Meethe Tere Bol/
+s3cmd ls s3://gurbani-prod/Mere Man Pardesi - Maalkauns/
+s3cmd ls s3://gurbani-prod/Meri-Preet-Gobind/
+s3cmd ls s3://gurbani-prod/Mero Sundar/
+s3cmd ls s3://gurbani-prod/Mero-Sunder-English/
+s3cmd ls s3://gurbani-prod/Mero-Sunder-Punjabi/
+s3cmd ls s3://gurbani-prod/Mith Bolra Ji - Zila/
+s3cmd ls s3://gurbani-prod/More_content/
+s3cmd ls s3://gurbani-prod/Oha Prem Piri - Asa/
+s3cmd ls s3://gurbani-prod/Pavat Raliya/
+s3cmd ls s3://gurbani-prod/Phooli-Ban-Rai/
+s3cmd ls s3://gurbani-prod/Prabh-Mera-Antarjaami-Jaan/
+s3cmd ls s3://gurbani-prod/Prabh-Milbe-Ko-Preet-Man-Laagi/
+s3cmd ls s3://gurbani-prod/Raja-Raam-Mauliya/
+s3cmd ls s3://gurbani-prod/Rajan Kaun - Bhairvi/
+s3cmd ls s3://gurbani-prod/Ranga-Mein-Vari/
+s3cmd ls s3://gurbani-prod/Rasna Gun Gopal - Bilaaskhani Todi/     
+s3cmd ls s3://gurbani-prod/Sajan Tere Charan - Durga/
+s3cmd ls s3://gurbani-prod/Sajan-Maida-Chaiyaa-Asavari/
+s3cmd ls s3://gurbani-prod/Sant Payi Gur - Bilawal/
+s3cmd ls s3://gurbani-prod/Savliyo-Beethlaye/
+s3cmd ls s3://gurbani-prod/Shabad/
+s3cmd ls s3://gurbani-prod/Sudhta-Ki-Saan-ho/
+s3cmd ls s3://gurbani-prod/Supne Ubhi Bhayi/
+s3cmd ls s3://gurbani-prod/Tana-Bana/
+s3cmd ls s3://gurbani-prod/Tu Thaakaro Bairaagro/
+s3cmd ls s3://gurbani-prod/Tu har bhaj/
+s3cmd ls s3://gurbani-prod/Tu-Har-Bhaj-English/
+s3cmd ls s3://gurbani-prod/Tu-Na-Bisaar-Hindi/
+s3cmd ls s3://gurbani-prod/Tu-Na-Bisaar-Punjabi/
+s3cmd ls s3://gurbani-prod/chapter-video/
