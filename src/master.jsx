@@ -147,7 +147,7 @@ function Master() {
           name=""
           id=""
           value={command}
-          onChange={(e) => handleCommandChange(e)}
+          onChange={handleCommandChange}
         ></textarea>
       </div>
     </div>
