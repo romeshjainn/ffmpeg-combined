@@ -12,10 +12,10 @@ export function SplitDataFromPath(data) {
       "/";
 
     const updatedPathDetails = {
-      videoName: fileName.trim(""),
-      fileExtension: fileExtension.trim(""),
-      folderName: folderName.trim(""),
-      folderPath: folderPath.trim(""),
+      videoName: fileName.trim(),
+      fileExtension: fileExtension.trim(),
+      folderName: folderName.trim(),
+      folderPath: folderPath.trim(),
     };
 
     pathDetailsArray.push(updatedPathDetails);

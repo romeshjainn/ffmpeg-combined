@@ -6,23 +6,7 @@ import { splitS3Urls } from "./utils/makeArray";
 
 function Home() {
   const [mainArray, setMainArray] = useState([]);
-  const [pathArray, setPathArray] = useState([
-    "s3://gurbani-prod/Dekh Phool Phool/Video/Dekh Phool 10 - Antra 1st line (Male scale C#).mp4",
-    "s3://gurbani-prod/Dekh Phool Phool/Video/Dekh Phool 11 - Asthai 3rd line (Male scale C#).mp4",
-    "s3://gurbani-prod/Dekh Phool Phool/Video/Dekh Phool 12 - Asthai 2nd line (Male scale C#).mp4",
-    "s3://gurbani-prod/Dekh Phool Phool/Video/Dekh Phool 13 - Asthai 1st line (Male scale C#).mp4",
-    "s3://gurbani-prod/Dekh Phool Phool/Video/Dekh Phool 14 - Intro:Raag Discussion.mp4",
-    "s3://gurbani-prod/Dekh Phool Phool/Video/Dekh Phool 15 - Outro.mp4",
-    "s3://gurbani-prod/Dekh Phool Phool/Video/Dekh Phool 2 - Full shabad demonstration (Male scale C#).mp4",
-    "s3://gurbani-prod/Dekh Phool Phool/Video/Dekh Phool 2.1 -  Full shabad demonstration (Female scale A#).mp4",
-    "s3://gurbani-prod/Dekh Phool Phool/Video/Dekh Phool 3 - Antra 3rd line (Female scale A#).mp4",
-    "s3://gurbani-prod/Dekh Phool Phool/Video/Dekh Phool 4 - Antra 2nd line (Female scale A#).mp4",
-    "s3://gurbani-prod/Dekh Phool Phool/Video/Dekh Phool 5 - Antra 1st line (Female scale A#).mp4",
-    "s3://gurbani-prod/Dekh Phool Phool/Video/Dekh Phool 6 - Asthai 3rd line (Female scale A#).mp4",
-    "s3://gurbani-prod/Dekh Phool Phool/Video/Dekh Phool 7 - Asthai 2nd line (Female scale A#).mp4",
-    "s3://gurbani-prod/Dekh Phool Phool/Video/Dekh Phool 8 - Asthai first line (Female scale A#).mp4",
-    "s3://gurbani-prod/Dekh Phool Phool/Video/Dekh Phool 9 - Antra 2nd line (Male scale C#).mp4",
-  ]);
+  const [pathArray, setPathArray] = useState([]);
   const [input, setInput] = useState("");
   const [command, setCommand] = useState("");
 
@@ -77,7 +61,10 @@ function Home() {
 
   useEffect(() => {
     if (input.length) {
-      const data = splitS3Urls(input);
+      const data = splitS3Urls(input).filter(
+        (path) => path.includes(".mp4") || path.includes(".mov")
+      );
+      console.log(data);
       setPathArray(data);
       const processedData = SplitDataFromPath(data);
       setMainArray(processedData);
@@ -101,7 +88,7 @@ function Home() {
         </pre>
         <div className="w-[30%] flex flex-col gap-2">
           <div className="grid place-items-center bg-red-500 text-white font-semibold rounded-sm ">
-            <button 
+            <button
               onClick={() => {
                 navigator.clipboard
                   .writeText(command.trim())

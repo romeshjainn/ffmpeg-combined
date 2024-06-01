@@ -1,6 +1,6 @@
 english Video
 
-s3://gurbani-prod/Dekhau Bhai/Videos/English/Dekho Bhai (English) 1 - Introduction.mp4
+s3://gurbani-prod/Dekhau Bhai/Videos/English/Dekho Bhai (English) 1 - Introduction.mov
 s3://gurbani-prod/Dekhau Bhai/Videos/English/Dekho Bhai (English) 2 - Composition Introduction.mp4
 s3://gurbani-prod/Dekhau Bhai/Videos/English/Dekho Bhai (English) 3 - Asthai Tutorial (Male scale).mp4
 s3://gurbani-prod/Dekhau Bhai/Videos/English/Dekho Bhai (English) 4 - Asthai Tutorial (Female scale).mp4

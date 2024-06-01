@@ -3,13 +3,24 @@ function splitS3Urls(inputString) {
   return urls.map((url) => "s3://" + url.trim());
 }
 
-const a = `s3://gurbani-prod/Dekhau Bhai/Videos/English/Dekho Bhai (English) 1 - Introduction.mp4
-s3://gurbani-prod/Dekhau Bhai/Videos/English/Dekho Bhai (English) 2 - Composition Introduction.mp4
-s3://gurbani-prod/Dekhau Bhai/Videos/English/Dekho Bhai (English) 3 - Asthai Tutorial (Male scale).mp4
-s3://gurbani-prod/Dekhau Bhai/Videos/English/Dekho Bhai (English) 4 - Asthai Tutorial (Female scale).mp4
-s3://gurbani-prod/Dekhau Bhai/Videos/English/Dekho Bhai (English) 5 - Antra Tutorial (Female scale).mp4
-s3://gurbani-prod/Dekhau Bhai/Videos/English/Dekho Bhai (English) 6 - Antra Tutorial (Male scale).mp4
-s3://gurbani-prod/Dekhau Bhai/Videos/English/Dekho Bhai (English) 7 - Full shabad demonstration (Male scale).mp4
-s3://gurbani-prod/Dekhau Bhai/Videos/English/Dekho Bhai (English) 8 - Full shabad demonstration (Female scale).mp4`;
+const a = [
+  "s3://gurbani-prod/Dekh Phool Phool/Video/Dekh Phool 10 - Antra 1st line (Male scale C#).mov",
+  "s3://gurbani-prod/Dekh Phool Phool/Video/Dekh Phool 11 - Asthai 3rd line (Male scale C#).mp4",
+  "s3://gurbani-prod/Dekh Phool Phool/Video/Dekh Phool 12 - Asthai 2nd line (Male scale C#).mp4",
+  "s3://gurbani-prod/Dekh Phool Phool/Video/Dekh Phool 13 - Asthai 1st line (Male scale C#).mp4",
+  "s3://gurbani-prod/Dekh Phool Phool/Video/Dekh Phool 14 - Intro:Raag Discussion.mp4",
+  "s3://gurbani-prod/Dekh Phool Phool/Video/Dekh Phool 15 - Outro.mp4",
+  "s3://gurbani-prod/Dekh Phool Phool/Video/Dekh Phool 2 - Full shabad demonstration (Male scale C#).mp4",
+  "s3://gurbani-prod/Dekh Phool Phool/Video/Dekh Phool 2.1 -  Full shabad demonstration (Female scale A#).mp4",
+  "s3://gurbani-prod/Dekh Phool Phool/Video/Dekh Phool 3 - Antra 3rd line (Female scale A#).mp4",
+  "s3://gurbani-prod/Dekh Phool Phool/Video/Dekh Phool 4 - Antra 2nd line (Female scale A#).mp4",
+  "s3://gurbani-prod/Dekh Phool Phool/Video/Dekh Phool 5 - Antra 1st line (Female scale A#).mp4",
+  "s3://gurbani-prod/Dekh Phool Phool/Video/Dekh Phool 6 - Asthai 3rd line (Female scale A#).mp4",
+  "s3://gurbani-prod/Dekh Phool Phool/Video/Dekh Phool 7 - Asthai 2nd line (Female scale A#).mp4",
+  "s3://gurbani-prod/Dekh Phool Phool/Video/Dekh Phool 8 - Asthai first line (Female scale A#).mp4",
+  "s3://gurbani-prod/Dekh Phool Phool/Video/Dekh Phool 9 - Antra 2nd line (Male scale C#).mp4",
+];
 
-console.log(splitS3Urls(a));
+const test = a.filter((path) => path.includes(".mp4") || path.includes(".mov"));
+
+console.log(test);
