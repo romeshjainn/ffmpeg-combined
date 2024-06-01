@@ -1,0 +1,45 @@
+s3cmd ls 's3://gurbani-prod/Sant Payi Gur - Bilawal/English/Videos/'
+
+s3://gurbani-prod/Sant Payi Gur - Bilawal/English/Videos/Saant Paaee (English) 1 - Introduction.mov
+s3://gurbani-prod/Sant Payi Gur - Bilawal/English/Videos/Saant Paaee (English) 10 - Antra Line 2 (Female Scale) - Tutorial.mp4
+s3://gurbani-prod/Sant Payi Gur - Bilawal/English/Videos/Saant Paaee (English) 11 - Full Shabad Demonstration - Female Scale.mp4
+s3://gurbani-prod/Sant Payi Gur - Bilawal/English/Videos/Saant Paaee (English) 12 - Full Shabad Demonstration - Male Scale.mp4
+s3://gurbani-prod/Sant Payi Gur - Bilawal/English/Videos/Saant Paaee (English) 2 - Aroh Avroh - Male scale.mov
+s3://gurbani-prod/Sant Payi Gur - Bilawal/English/Videos/Saant Paaee (English) 3 - Asthai Line 1 Tutorial - Male scale.mp4
+s3://gurbani-prod/Sant Payi Gur - Bilawal/English/Videos/Saant Paaee (English) 4 - Asthai Line 2 Tutorial - Male scale.mp4
+s3://gurbani-prod/Sant Payi Gur - Bilawal/English/Videos/Saant Paaee (English) 5 - Antra Line 1 Tutorial - Male scale.mp4
+s3://gurbani-prod/Sant Payi Gur - Bilawal/English/Videos/Saant Paaee (English) 6 - Antra Line 2 Tutorial - Male scale.mp4
+s3://gurbani-prod/Sant Payi Gur - Bilawal/English/Videos/Saant Paaee (English) 7 - Asthai Line 1 Tutorial (Female scale).mp4
+s3://gurbani-prod/Sant Payi Gur - Bilawal/English/Videos/Saant Paaee (English) 8 - Asthai Line 2 (Female Scale) - Tutorial.mp4
+s3://gurbani-prod/Sant Payi Gur - Bilawal/English/Videos/Saant Paaee (English) 9 - Antra Line 1 (Female Scale) - Tutorial.mp4
+
+s3cmd ls 's3://gurbani-prod/Sant Payi Gur - Bilawal/Hindi/Videos/'
+
+s3://gurbani-prod/Sant Payi Gur - Bilawal/Hindi/Videos/Saant paaee (Hindi) 1 - Introduction.mov
+s3://gurbani-prod/Sant Payi Gur - Bilawal/Hindi/Videos/Saant paaee (Hindi) 10 - Antra Line 1 - Female scale.mov
+s3://gurbani-prod/Sant Payi Gur - Bilawal/Hindi/Videos/Saant paaee (Hindi) 11 - Antra line 2 - Female scale.mov
+s3://gurbani-prod/Sant Payi Gur - Bilawal/Hindi/Videos/Saant paaee (Hindi) 12 - Full shabad - Female scale.mov
+s3://gurbani-prod/Sant Payi Gur - Bilawal/Hindi/Videos/Saant paaee (Hindi) 13 - Full shabad - Male scale.mov
+s3://gurbani-prod/Sant Payi Gur - Bilawal/Hindi/Videos/Saant paaee (Hindi) 14 - Try different shabads on this tune.mov
+s3://gurbani-prod/Sant Payi Gur - Bilawal/Hindi/Videos/Saant paaee (Hindi) 2 - Aroh and Avroh .mov
+s3://gurbani-prod/Sant Payi Gur - Bilawal/Hindi/Videos/Saant paaee (Hindi) 3 - Asthai Line 1 - Tutorial.mov
+s3://gurbani-prod/Sant Payi Gur - Bilawal/Hindi/Videos/Saant paaee (Hindi) 4 - Asthai Line 2 - Tutorial.mov
+s3://gurbani-prod/Sant Payi Gur - Bilawal/Hindi/Videos/Saant paaee (Hindi) 5 - Antra line 1 - Tutorial.mov
+s3://gurbani-prod/Sant Payi Gur - Bilawal/Hindi/Videos/Saant paaee (Hindi) 6 - Antra Line 2 - Tutorial.mov
+s3://gurbani-prod/Sant Payi Gur - Bilawal/Hindi/Videos/Saant paaee (Hindi) 7 - Raag Chalan - Female scale.mov
+s3://gurbani-prod/Sant Payi Gur - Bilawal/Hindi/Videos/Saant paaee (Hindi) 8 - Asthai Line 1 - Female scale.mov
+s3://gurbani-prod/Sant Payi Gur - Bilawal/Hindi/Videos/Saant paaee (Hindi) 9 - Asthai Line 2 - Female scale.mov
+
+s3cmd ls 's3://gurbani-prod/Sant Payi Gur - Bilawal/Punjabi/Videos/'
+
+s3://gurbani-prod/Sant Payi Gur - Bilawal/Punjabi/Videos/Saant Paaee (Punjabi) 1 - Introduction.mov
+s3://gurbani-prod/Sant Payi Gur - Bilawal/Punjabi/Videos/Saant paaee (Punjabi) 2 - Aroh and Avroh.mov
+s3://gurbani-prod/Sant Payi Gur - Bilawal/Punjabi/Videos/Saant Paaee (Punjabi) 3 - Asthai Line 1 - Tutorial (male scale).mov
+s3://gurbani-prod/Sant Payi Gur - Bilawal/Punjabi/Videos/Saant Paaee (Punjabi) 4 - Asthai Line 2 - Tutorial (male scale).mov
+s3://gurbani-prod/Sant Payi Gur - Bilawal/Punjabi/Videos/Saant Paaee (Punjabi) 5 - Antra Tutorial (male scale).mov
+s3://gurbani-prod/Sant Payi Gur - Bilawal/Punjabi/Videos/Saant Paaee (Punjabi) 6 - Raag Chalan - Female scale.mov
+s3://gurbani-prod/Sant Payi Gur - Bilawal/Punjabi/Videos/Saant Paaee (Punjabi) 7 - Asthai Tutorial - Female scale.mov
+s3://gurbani-prod/Sant Payi Gur - Bilawal/Punjabi/Videos/Saant Paaee (Punjabi) 8 - Antra Tutorial - Female scale.mov
+s3://gurbani-prod/Sant Payi Gur - Bilawal/Punjabi/Videos/Saant Paaee (Punjabi) 9 - Full shabad demonstration - Female scale.mov
+s3://gurbani-prod/Sant Payi Gur - Bilawal/Punjabi/Videos/Saant Paaee (Punjabi) 10 - Full shabad demonstration - Male scale.mov
+s3://gurbani-prod/Sant Payi Gur - Bilawal/Punjabi/Videos/Saant Paaee (Punjabi) 12 - Try other shabads on the same tune.mov

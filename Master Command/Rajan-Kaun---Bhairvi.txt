@@ -1,0 +1,35 @@
+s3cmd ls 's3://gurbani-prod/Rajan Kaun - Bhairvi/Videos/English/'
+
+s3://gurbani-prod/Rajan Kaun - Bhairvi/Videos/English/Rajan Kaun (English) 1 - Introduction and Raag Discussion.mp4
+s3://gurbani-prod/Rajan Kaun - Bhairvi/Videos/English/Rajan Kaun (English) 2 - Taal discussion.mp4
+s3://gurbani-prod/Rajan Kaun - Bhairvi/Videos/English/Rajan Kaun (English) 3 - Aroh Avroh (Female Scale).mp4
+s3://gurbani-prod/Rajan Kaun - Bhairvi/Videos/English/Rajan Kaun (English) 4 - Aroh Avroh (Male Scale).mp4
+s3://gurbani-prod/Rajan Kaun - Bhairvi/Videos/English/Rajan Kaun (English) 5 - A note on Raag Bhairvi.mp4
+s3://gurbani-prod/Rajan Kaun - Bhairvi/Videos/English/Rajan Kaun (English) 6 - Composition Demonstration.mp4
+s3://gurbani-prod/Rajan Kaun - Bhairvi/Videos/English/Rajan Kaun (English) 7 - Asthai Tutorial (Male scale).mp4
+s3://gurbani-prod/Rajan Kaun - Bhairvi/Videos/English/Rajan Kaun (English) 8 - Asthai Tutorial (Female scale).mp4
+s3://gurbani-prod/Rajan Kaun - Bhairvi/Videos/English/Rajan Kaun (English) 9 - Antra Tutorial (Male scale).mp4
+s3://gurbani-prod/Rajan Kaun - Bhairvi/Videos/English/Rajan Kaun (English) 10 - How to pick up the Antra correctly.mp4
+s3://gurbani-prod/Rajan Kaun - Bhairvi/Videos/English/Rajan Kaun (English) 11 - Antra Tutorial (Male scale).mp4
+s3://gurbani-prod/Rajan Kaun - Bhairvi/Videos/English/Rajan Kaun (English) 12 - Remaining Antre Tutorial (Male scale).mp4
+s3://gurbani-prod/Rajan Kaun - Bhairvi/Videos/English/Rajan Kaun (English) 13 - Remaining Antre Tutorial (Female scale).mp4
+s3://gurbani-prod/Rajan Kaun - Bhairvi/Videos/English/Rajan Kaun (English) 14 - Full shabad demonstration (Female scale).mp4
+s3://gurbani-prod/Rajan Kaun - Bhairvi/Videos/English/Rajan Kaun (English) 15 - Full shabad demonstration (Male scale).mp4
+
+s3cmd ls 's3://gurbani-prod/Rajan Kaun - Bhairvi/Videos/Punjabi/'
+
+s3://gurbani-prod/Rajan Kaun - Bhairvi/Videos/Punjabi/Rajan Kaun (Punjabi) 1 - Introduction and Raag Discussion.mov
+s3://gurbani-prod/Rajan Kaun - Bhairvi/Videos/Punjabi/Rajan Kaun (Punjabi) 2 - Taal Discussion.mov
+s3://gurbani-prod/Rajan Kaun - Bhairvi/Videos/Punjabi/Rajan Kaun (Punjabi) 3 - Aroh Avroh (Female scale).mov
+s3://gurbani-prod/Rajan Kaun - Bhairvi/Videos/Punjabi/Rajan Kaun (Punjabi) 4 - Aroh Avroh (Male scale).mov
+s3://gurbani-prod/Rajan Kaun - Bhairvi/Videos/Punjabi/Rajan Kaun (Punjabi) 5 - A note on Raag Bhairvi.mov
+s3://gurbani-prod/Rajan Kaun - Bhairvi/Videos/Punjabi/Rajan Kaun (Punjabi) 6 - Composition Demonstration.mov
+s3://gurbani-prod/Rajan Kaun - Bhairvi/Videos/Punjabi/Rajan Kaun (Punjabi) 7 - Asthai Tutorial (Male scale).mov
+s3://gurbani-prod/Rajan Kaun - Bhairvi/Videos/Punjabi/Rajan Kaun (Punjabi) 8 - Asthai Tutorial (Female scale).mov
+s3://gurbani-prod/Rajan Kaun - Bhairvi/Videos/Punjabi/Rajan Kaun (Punjabi) 9 - Antra Tutorial (Female scale).mov
+s3://gurbani-prod/Rajan Kaun - Bhairvi/Videos/Punjabi/Rajan Kaun (Punjabi) 10 - How to pick up the Antra correctly.mov
+s3://gurbani-prod/Rajan Kaun - Bhairvi/Videos/Punjabi/Rajan Kaun (Punjabi) 11 - Antra Tutorial (Male scale).mov
+s3://gurbani-prod/Rajan Kaun - Bhairvi/Videos/Punjabi/Rajan Kaun (Punjabi) 12 - Remaining Antre Tutorial (Male scale).mov
+s3://gurbani-prod/Rajan Kaun - Bhairvi/Videos/Punjabi/Rajan Kaun (Punjabi) 13 - Remaining Antre Tutorial (Female scale).mov
+s3://gurbani-prod/Rajan Kaun - Bhairvi/Videos/Punjabi/Rajan Kaun (Punjabi) 14 - Full shabad demonstration (Female scale).mov
+s3://gurbani-prod/Rajan Kaun - Bhairvi/Videos/Punjabi/Rajan Kaun (Punjabi) 15 - Full shabad demonstration (Male scale).mov

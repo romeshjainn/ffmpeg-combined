@@ -1,0 +1,23 @@
+s3cmd ls 's3://gurbani-prod/Tu har bhaj/English/Videos/'
+
+s3://gurbani-prod/Tu har bhaj/English/Videos/Tu Har Bhaj (English) 11 - Full shabad demonstration (Female scale).mp4
+s3://gurbani-prod/Tu har bhaj/English/Videos/Tu Har Bhaj (English) 2 - Shabad demonstration (Male scale).mp4
+s3://gurbani-prod/Tu har bhaj/English/Videos/Tu Har Bhaj (English) 3 - Aroh Avroh (Female scale).mp4
+s3://gurbani-prod/Tu har bhaj/English/Videos/Tu Har Bhaj (English) 4 - Raag Chalan.mp4
+s3://gurbani-prod/Tu har bhaj/English/Videos/Tu Har Bhaj (English) 5 - Shabad demonstration (Female Scale).mp4
+s3://gurbani-prod/Tu har bhaj/English/Videos/Tu Har Bhaj (English) 6 - Asthai Tutorial (Female scale).mp4
+s3://gurbani-prod/Tu har bhaj/English/Videos/Tu Har Bhaj (English) 7 - Antra Tutorial (Female scale).mp4
+s3://gurbani-prod/Tu har bhaj/English/Videos/Tu Har Bhaj (English) 9 - Antra Tutorial (Male scale).mp4
+
+s3cmd ls 's3://gurbani-prod/Tu har bhaj/Punjabi/Videos/'
+
+s3://gurbani-prod/Tu har bhaj/Punjabi/Videos/Tu Har Bhaj (Punjabi) 1 - Introduction and Raag Discussion.mp4
+s3://gurbani-prod/Tu har bhaj/Punjabi/Videos/Tu Har Bhaj (Punjabi) 10 - Full shabad demonstration (Female scale).mp4
+s3://gurbani-prod/Tu har bhaj/Punjabi/Videos/Tu Har Bhaj (Punjabi) 2 - Shabad demonstration (Male scale).mp4
+s3://gurbani-prod/Tu har bhaj/Punjabi/Videos/Tu Har Bhaj (Punjabi) 3 - Aroh Avroh and Raag Chalan (Female scale).mp4
+s3://gurbani-prod/Tu har bhaj/Punjabi/Videos/Tu Har Bhaj (Punjabi) 4 - Shabad demonstration (Female scale).mp4
+s3://gurbani-prod/Tu har bhaj/Punjabi/Videos/Tu Har Bhaj (Punjabi) 5 - Asthai Tutorial (Female scale).mp4
+s3://gurbani-prod/Tu har bhaj/Punjabi/Videos/Tu Har Bhaj (Punjabi) 6 - Antra Tutorial (Female scale).mp4
+s3://gurbani-prod/Tu har bhaj/Punjabi/Videos/Tu Har Bhaj (Punjabi) 7 - Asthai Tutorial (Male scale).mp4
+s3://gurbani-prod/Tu har bhaj/Punjabi/Videos/Tu Har Bhaj (Punjabi) 8 - Antra Tutorial (Male scale).mp4
+s3://gurbani-prod/Tu har bhaj/Punjabi/Videos/Tu Har Bhaj (Punjabi) 9 - Full shabad demonstration (Male scale).mp4

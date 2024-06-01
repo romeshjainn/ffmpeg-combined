@@ -11,7 +11,6 @@ export function getCommandFolderName(path) {
   return folderNameArr[0];
 }
 
-
 export function getFolderPathName(path) {
   const folderName = path.split("/")[3];
   return folderName.replace(/^[-\s]+|[-\s]+$/g, "");

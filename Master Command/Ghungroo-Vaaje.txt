@@ -1,0 +1,12 @@
+s3cmd ls 's3://gurbani-prod/Ghungroo-Vaaje/'
+
+s3://gurbani-prod/Ghungroo-Vaaje/
+s3://gurbani-prod/Ghungroo-Vaaje/Ghungru Vaaje 1 - Introduction.mp4
+s3://gurbani-prod/Ghungroo-Vaaje/Ghungru Vaaje 2 - Asthai First Line - Tutorial.mp4
+s3://gurbani-prod/Ghungroo-Vaaje/Ghungru Vaaje 3 - Asthai Line 2 - Tutorial.mp4
+s3://gurbani-prod/Ghungroo-Vaaje/Ghungru Vaaje 4- Full Asthaai .mp4
+s3://gurbani-prod/Ghungroo-Vaaje/Ghungru Vaaje 5 - Antra Line 1 - Tutorial.mp4
+s3://gurbani-prod/Ghungroo-Vaaje/Ghungru Vaaje 6 - Antra Line 2 - Tutorial.mp4
+s3://gurbani-prod/Ghungroo-Vaaje/Ghungru Vaaje 7 - Full Antra.mp4
+s3://gurbani-prod/Ghungroo-Vaaje/Ghungru Vaaje 8 - Full shabad demonstration - C#.mp4
+s3://gurbani-prod/Ghungroo-Vaaje/Ghungru Vaaje 9 - Full shabad demonstration - A#.mp4

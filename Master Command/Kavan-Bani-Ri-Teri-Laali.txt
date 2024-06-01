@@ -1,0 +1,6 @@
+s3cmd ls 's3://gurbani-prod/Kavan-Bani-Ri-Teri-Laali/'
+
+s3://gurbani-prod/Kavan-Bani-Ri-Teri-Laali/Kavan Bani 1 - Introduction.mov
+s3://gurbani-prod/Kavan-Bani-Ri-Teri-Laali/Kavan Bani 2 - Composition and Raag introduction.mov
+s3://gurbani-prod/Kavan-Bani-Ri-Teri-Laali/Kavan Bani 3 - Asthai First Line Tutorial (Male scale C#).mov
+s3://gurbani-prod/Kavan-Bani-Ri-Teri-Laali/Kavan Bani 4 - Asthat Second Line Tutorial (Male scale C#).mov

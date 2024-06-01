@@ -1,8 +1,11 @@
 ssh root@170.64.201.135
 Gr4trJ5cf2yi6!A
 
-do again
-Tu-Na-Bisaar-(Hindi)-10-Full-shabad-demonstration-Male-scale - last video
+
+Man-Mere-Bhoole-Khamaaj	
+ghungro vaje
+dekh phool phool
+dekh phool phool video
 
 
 processing :-
@@ -27,7 +30,7 @@ s3cmd ls s3://gurbani-prod/Beginner-Series/
 s3cmd ls s3://gurbani-prod/Bhoomiya-Bhoom/
 s3cmd ls s3://gurbani-prod/Bigrio Kabeera - Alhaiya Biilawal/Videos/English/  
 s3cmd ls s3://gurbani-prod/Chuka-Nihora/
-s3cmd ls s3://gurbani-prod/Dekh Phool Phool/
+s3cmd ls 's3://gurbani-prod/Dekh Phool Phool/Video'
 s3cmd ls s3://gurbani-prod/Dekhau Bhai/
 s3cmd ls s3://gurbani-prod/FAQ/
 s3cmd ls s3://gurbani-prod/Gao-Gao-Ri-Dulhani/
@@ -81,3 +84,11 @@ s3cmd ls s3://gurbani-prod/Tu-Har-Bhaj-English/
 s3cmd ls s3://gurbani-prod/Tu-Na-Bisaar-Hindi/
 s3cmd ls s3://gurbani-prod/Tu-Na-Bisaar-Punjabi/
 s3cmd ls s3://gurbani-prod/chapter-video/
+
+51
+57
+59
+61
+78
+
+history -d 90-92 && history -w && history

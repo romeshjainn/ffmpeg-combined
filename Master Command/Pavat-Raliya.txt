@@ -1,0 +1,9 @@
+s3cmd ls 's3://gurbani-prod/Pavat Raliya/Videos/'
+
+s3://gurbani-prod/Pavat Raliya/Videos/Paavat Raliya 1 - Raag Discussion.mp4
+s3://gurbani-prod/Pavat Raliya/Videos/Paavat Raliya 2 - Asthai Line 1 - Tutorial.mp4
+s3://gurbani-prod/Pavat Raliya/Videos/Paavat Raliya 3 - Antra Line 1 - Tutorial.mp4
+s3://gurbani-prod/Pavat Raliya/Videos/Paavat Raliya 4 - Asthai Line 2 - Tutorial.mp4
+s3://gurbani-prod/Pavat Raliya/Videos/Paavat Raliya 5 - Antra Line 2 - Tutorial.mp4
+s3://gurbani-prod/Pavat Raliya/Videos/Paavat Raliya 6 - Full shabad demonstration - C#.mp4        
+s3://gurbani-prod/Pavat Raliya/Videos/Paavat Raliya 7 - Full shabad demonstration - A#.mp4

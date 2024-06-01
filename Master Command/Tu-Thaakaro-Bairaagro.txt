@@ -1,0 +1,34 @@
+s3cmd ls 's3://gurbani-prod/Tu Thaakaro Bairaagro/English/Videos/'
+
+s3://gurbani-prod/Tu Thaakaro Bairaagro/English/Videos/Tu Thaakro (English) - Antra Tutorial (Female scale).mp4
+s3://gurbani-prod/Tu Thaakaro Bairaagro/English/Videos/Tu Thaakro (English) - Antra Tutorial - Male scale.mp4
+s3://gurbani-prod/Tu Thaakaro Bairaagro/English/Videos/Tu Thaakro (English) - Asthai Tutorial (Female scale).mp4
+s3://gurbani-prod/Tu Thaakaro Bairaagro/English/Videos/Tu Thaakro (English) - Asthai Tutorial - Male scale.mp4
+s3://gurbani-prod/Tu Thaakaro Bairaagro/English/Videos/Tu Thaakro (English) - Composition introduction.mp4
+s3://gurbani-prod/Tu Thaakaro Bairaagro/English/Videos/Tu Thaakro (English) - Full shabad demonstration (Female scale).mp4
+s3://gurbani-prod/Tu Thaakaro Bairaagro/English/Videos/Tu Thaakro (English) - Full shabad demonstration - Male scale.mp4
+s3://gurbani-prod/Tu Thaakaro Bairaagro/English/Videos/Tu Thaakro (English) - How this composition fits into Roopak Taal.mp4
+s3://gurbani-prod/Tu Thaakaro Bairaagro/English/Videos/Tu Thaakro (English) - Introduction and Raag Discussion.mp4
+
+s3cmd ls 's3://gurbani-prod/Tu Thaakaro Bairaagro/Hindi/Videos/'
+
+s3://gurbani-prod/Tu Thaakaro Bairaagro/Hindi/Videos/Tu Thaakro (Hindi) 1 - Introduction and Raag Discussion.mov
+s3://gurbani-prod/Tu Thaakaro Bairaagro/Hindi/Videos/Tu Thaakro (Hindi) 2 - Composition Introduction.mov
+s3://gurbani-prod/Tu Thaakaro Bairaagro/Hindi/Videos/Tu Thaakro (Hindi) 3 - Asthai Tutorial (Male scale).mov
+s3://gurbani-prod/Tu Thaakaro Bairaagro/Hindi/Videos/Tu Thaakro (Hindi) 4 - Antra Tutorial (Male scale).mov
+s3://gurbani-prod/Tu Thaakaro Bairaagro/Hindi/Videos/Tu Thaakro (Hindi) 5 - Asthai Tutorial (Female scale).mov
+s3://gurbani-prod/Tu Thaakaro Bairaagro/Hindi/Videos/Tu Thaakro (Hindi) 6 - Antra Tutorial (Female scale).mov
+s3://gurbani-prod/Tu Thaakaro Bairaagro/Hindi/Videos/Tu Thaakro (Hindi) 7 - Full shabad demonstration (Female scale).mov
+s3://gurbani-prod/Tu Thaakaro Bairaagro/Hindi/Videos/Tu Thaakro (Hindi) 8 - Full shabad demonstration - Male scale.mov
+s3://gurbani-prod/Tu Thaakaro Bairaagro/Hindi/Videos/Tu Thaakro (Hindi) 9 - How this composition fits into Roopak Taal.mov
+
+s3cmd ls 's3://gurbani-prod/Tu Thaakaro Bairaagro/Punjabi/Videos/'
+
+s3://gurbani-prod/Tu Thaakaro Bairaagro/Punjabi/Videos/Tu Thaakro (Punjabi) 1 - Introduction.mp4
+s3://gurbani-prod/Tu Thaakaro Bairaagro/Punjabi/Videos/Tu Thaakro (Punjabi) 2 - Raag and Composition Introduction.mp4
+s3://gurbani-prod/Tu Thaakaro Bairaagro/Punjabi/Videos/Tu Thaakro (Punjabi) 3 - Asthai Tutorial - Male scale.mp4
+s3://gurbani-prod/Tu Thaakaro Bairaagro/Punjabi/Videos/Tu Thaakro (Punjabi) 4 - Antra Tutorial (Male scale).mp4
+s3://gurbani-prod/Tu Thaakaro Bairaagro/Punjabi/Videos/Tu Thaakro (Punjabi) 5 - Asthai Tutorial (Female scale).mp4
+s3://gurbani-prod/Tu Thaakaro Bairaagro/Punjabi/Videos/Tu Thaakro (Punjabi) 6 - Full shabad demonstration (Female scale).mp4
+s3://gurbani-prod/Tu Thaakaro Bairaagro/Punjabi/Videos/Tu Thaakro (Punjabi) 7 - Full shabad demonstration (Male scale).mp4
+s3://gurbani-prod/Tu Thaakaro Bairaagro/Punjabi/Videos/Tu Thaakro (Punjabi) 8 - How this composition fits in Roopak Taal.mp4

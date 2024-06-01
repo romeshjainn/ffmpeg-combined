@@ -1,0 +1,10 @@
+s3cmd ls 's3://gurbani-prod/Meethe Tere Bol/Videos/'
+
+s3://gurbani-prod/Meethe Tere Bol/Videos/Meethe Tere Bol 1 - Introduction.mp4
+s3://gurbani-prod/Meethe Tere Bol/Videos/Meethe Tere Bol 2 - Raag Discussion.mp4
+s3://gurbani-prod/Meethe Tere Bol/Videos/Meethe Tere Bol 3 - Asthai Line 1 - Tutorial.mp4
+s3://gurbani-prod/Meethe Tere Bol/Videos/Meethe Tere Bol 4 - Asthai Line 2 - Tutorial.mp4
+s3://gurbani-prod/Meethe Tere Bol/Videos/Meethe Tere Bol 5 - Antra Line 1 - Tutorial.mp4
+s3://gurbani-prod/Meethe Tere Bol/Videos/Meethe Tere Bol 6 - Antra Line 2 - Tutorial.mp4
+s3://gurbani-prod/Meethe Tere Bol/Videos/Meethe Tere Bol 7 - Full shabad demonstration - C# .mp4  
+s3://gurbani-prod/Meethe Tere Bol/Videos/Meethe Tere Bol 8 - Full shabad demonstration - A#.mp4 

@@ -1,0 +1,61 @@
+s3cmd ls 's3://gurbani-prod/Ghol Ghumai - Tukhari/English/Videos/'
+
+s3://gurbani-prod/Ghol Ghumai - Tukhari/English/Videos/Aaroh & Avroh (Female Scale) - Tutorial.mp4
+s3://gurbani-prod/Ghol Ghumai - Tukhari/English/Videos/Antra (Rupak) - Tutorial-highlight.mp4
+s3://gurbani-prod/Ghol Ghumai - Tukhari/English/Videos/Antra (Rupak) - Tutorial.mp4
+s3://gurbani-prod/Ghol Ghumai - Tukhari/English/Videos/Antra (Teentaal) - Tutorial-highlight.mp4
+s3://gurbani-prod/Ghol Ghumai - Tukhari/English/Videos/Antra (Teentaal) - Tutorial.mp4
+s3://gurbani-prod/Ghol Ghumai - Tukhari/English/Videos/Antra in Rupak (Female Scale) - Tutorial.mp4
+s3://gurbani-prod/Ghol Ghumai - Tukhari/English/Videos/Antra in Teentaal (Female Scale) - Tutorial-highlight.mp4
+s3://gurbani-prod/Ghol Ghumai - Tukhari/English/Videos/Antra in Teentaal (Female Scale) - Tutorial.mp4
+s3://gurbani-prod/Ghol Ghumai - Tukhari/English/Videos/Asthai (Female Scale) - Tutorial-highlight.mp4
+s3://gurbani-prod/Ghol Ghumai - Tukhari/English/Videos/Asthai (Female Scale) - Tutorial.mp4       
+s3://gurbani-prod/Ghol Ghumai - Tukhari/English/Videos/Asthai (Page 1 & 2) - Tutorial-highlight.mp4
+s3://gurbani-prod/Ghol Ghumai - Tukhari/English/Videos/Asthai (Page 1 & 2) - Tutorial.mp4
+s3://gurbani-prod/Ghol Ghumai - Tukhari/English/Videos/Asthai (Page 1) - Tutorial-highlight.mp4   
+s3://gurbani-prod/Ghol Ghumai - Tukhari/English/Videos/Asthai (Page 1) - Tutorial.mp4
+s3://gurbani-prod/Ghol Ghumai - Tukhari/English/Videos/Asthai (Page 2) - Tutorial.mp4
+s3://gurbani-prod/Ghol Ghumai - Tukhari/English/Videos/Discussion of Antra-highlight.mp4
+s3://gurbani-prod/Ghol Ghumai - Tukhari/English/Videos/Discussion of Antra.mp4
+s3://gurbani-prod/Ghol Ghumai - Tukhari/English/Videos/Discussion of Raag.mp4
+s3://gurbani-prod/Ghol Ghumai - Tukhari/English/Videos/Ghol Ghumai Laalna (English) 1 - Introduction.mp4
+s3://gurbani-prod/Ghol Ghumai - Tukhari/English/Videos/Ghol Ghumai Laalna (English) 2 - Raag Discussion.mp4
+s3://gurbani-prod/Ghol Ghumai - Tukhari/English/Videos/Ghol Ghumai Laalna (English) 3 - Asthai Tutorial (Male scale).mp4
+s3://gurbani-prod/Ghol Ghumai - Tukhari/English/Videos/Ghol Ghumai Laalna (English) 4 - Antra Tutorial (Male scale).mp4
+s3://gurbani-prod/Ghol Ghumai - Tukhari/English/Videos/Ghol Ghumai Laalna (English) 5 - How to go between the Asthai and Antra .mp4
+s3://gurbani-prod/Ghol Ghumai - Tukhari/English/Videos/Ghol Ghumai Laalna (English) 6 - Remaining Antre (Male scale).mp4
+s3://gurbani-prod/Ghol Ghumai - Tukhari/English/Videos/Ghol Ghumai Laalna (English) 7 - Asthai Tutorial (Female scale).mp4
+s3://gurbani-prod/Ghol Ghumai - Tukhari/English/Videos/Ghol Ghumai Laalna (English) 8 - Antra Tutorial (Female scale).mp4
+s3://gurbani-prod/Ghol Ghumai - Tukhari/English/Videos/Ghol Ghumai Laalna (English) 9 - Remainaing Antre (Female scale).mp4
+s3://gurbani-prod/Ghol Ghumai - Tukhari/English/Videos/Introduction + Discussion of Partaal-highlight.mp4
+s3://gurbani-prod/Ghol Ghumai - Tukhari/English/Videos/Introduction + Discussion of Partaal.mp4   
+s3://gurbani-prod/Ghol Ghumai - Tukhari/English/Videos/Remaining Antre (Female Scale) - Tutorial.mp4
+s3://gurbani-prod/Ghol Ghumai - Tukhari/English/Videos/Remaining Antre.mp4
+
+s3cmd ls 's3://gurbani-prod/Ghol Ghumai - Tukhari/Hindi/Videos/'
+
+s3://gurbani-prod/Ghol Ghumai - Tukhari/Hindi/Videos/Ghol Ghumai Laalna - Antra 1 - Tutorial - Male scale.mp4
+s3://gurbani-prod/Ghol Ghumai - Tukhari/Hindi/Videos/Ghol Ghumai Laalna - Antra 1 Tutorial - Female scale.mp4
+s3://gurbani-prod/Ghol Ghumai - Tukhari/Hindi/Videos/Ghol Ghumai Laalna - Antra 2 - Tutorial.mp4  
+s3://gurbani-prod/Ghol Ghumai - Tukhari/Hindi/Videos/Ghol Ghumai Laalna - Antra 2 Tutorial - Female scale.mp4
+s3://gurbani-prod/Ghol Ghumai - Tukhari/Hindi/Videos/Ghol Ghumai Laalna - Aroh Avroh - Female scale.mp4
+s3://gurbani-prod/Ghol Ghumai - Tukhari/Hindi/Videos/Ghol Ghumai Laalna - Aroh Avroh- male scale.mp4
+s3://gurbani-prod/Ghol Ghumai - Tukhari/Hindi/Videos/Ghol Ghumai Laalna - Asthai Tutorial - Female scale.mp4
+s3://gurbani-prod/Ghol Ghumai - Tukhari/Hindi/Videos/Ghol Ghumai Laalna - Full Asthai Tutorial - Female scale.mp4
+s3://gurbani-prod/Ghol Ghumai - Tukhari/Hindi/Videos/Ghol Ghumai Laalna - How to go from the Asthai to Antra - Male scale.mp4
+s3://gurbani-prod/Ghol Ghumai - Tukhari/Hindi/Videos/Ghol Ghumai Laalna - Intro and Taal Discussion.mp4
+s3://gurbani-prod/Ghol Ghumai - Tukhari/Hindi/Videos/Ghol Ghumai Laalna - Remaining Antre - Female scale.mp4
+s3://gurbani-prod/Ghol Ghumai - Tukhari/Hindi/Videos/Ghol Ghumai Laalna - Remaining Antre - Male scale.mp4
+
+s3cmd ls 's3://gurbani-prod/Ghol Ghumai - Tukhari/Punjabi/Videos/'
+
+s3://gurbani-prod/Ghol Ghumai - Tukhari/Punjabi/Videos/Ghol Ghumai Laalna - Antra 1 Tutorial - Female scale.mov
+s3://gurbani-prod/Ghol Ghumai - Tukhari/Punjabi/Videos/Ghol Ghumai Laalna - Antra 1 Tutorial - Male scale.mov
+s3://gurbani-prod/Ghol Ghumai - Tukhari/Punjabi/Videos/Ghol Ghumai Laalna - Antra 2 Tutorial - Female scale.mov
+s3://gurbani-prod/Ghol Ghumai - Tukhari/Punjabi/Videos/Ghol Ghumai Laalna - Antra 2 Tutorial - Male scale.mov
+s3://gurbani-prod/Ghol Ghumai - Tukhari/Punjabi/Videos/Ghol Ghumai Laalna - Aroh Avroh - Male scale.mov
+s3://gurbani-prod/Ghol Ghumai - Tukhari/Punjabi/Videos/Ghol Ghumai Laalna - Asthai Tutorial - Female scale.mov
+s3://gurbani-prod/Ghol Ghumai - Tukhari/Punjabi/Videos/Ghol Ghumai Laalna - Asthai Tutorial - male scale.mov
+s3://gurbani-prod/Ghol Ghumai - Tukhari/Punjabi/Videos/Ghol Ghumai Laalna - How to change between Asthai and Antra - Male scale.mov
+s3://gurbani-prod/Ghol Ghumai - Tukhari/Punjabi/Videos/Ghol Ghumai Laalna - Introduction and Taal Discussion.mov
+s3://gurbani-prod/Ghol Ghumai - Tukhari/Punjabi/Videos/Ghol Ghumai Laalna - Remaining Antre - Male scale.mov

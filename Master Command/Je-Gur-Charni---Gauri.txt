@@ -1,0 +1,36 @@
+s3cmd ls 's3://gurbani-prod/Je Gur Charni - Gauri/English/Videos'
+
+s3://gurbani-prod/Je Gur Charni - Gauri/English/Videos/Je Gur Charni (English) 1 - Introduction.mov
+s3://gurbani-prod/Je Gur Charni - Gauri/English/Videos/Je Gur Charni (English) 10 - Some variations (Female scale).mov
+s3://gurbani-prod/Je Gur Charni - Gauri/English/Videos/Je Gur Charni (English) 2 - Composition Introduction.mov
+s3://gurbani-prod/Je Gur Charni - Gauri/English/Videos/Je Gur Charni (English) 3 - Asthai Tutorial (Male scale).mov
+s3://gurbani-prod/Je Gur Charni - Gauri/English/Videos/Je Gur Charni (English) 4 - Antra Tutorial (Male scale).mov
+s3://gurbani-prod/Je Gur Charni - Gauri/English/Videos/Je Gur Charni (English) 5 - Full shabad demonstration (Male scale).mov
+s3://gurbani-prod/Je Gur Charni - Gauri/English/Videos/Je Gur Charni (English) 6 - Some variations.mov
+s3://gurbani-prod/Je Gur Charni - Gauri/English/Videos/Je Gur Charni (English) 7 - Asthai Tutorial (Female scale).mov
+s3://gurbani-prod/Je Gur Charni - Gauri/English/Videos/Je Gur Charni (English) 8 - Antra Tutorial (Female scale).mov
+s3://gurbani-prod/Je Gur Charni - Gauri/English/Videos/Je Gur Charni (English) 9 - Full shabad demonstration - Female scale.mov
+
+s3cmd ls 's3://gurbani-prod/Je Gur Charni - Gauri/Hindi/Videos'
+
+s3://gurbani-prod/Je Gur Charni - Gauri/Hindi/Videos/Je Gur Charni (Hindi) 1 - Introduction.mov
+s3://gurbani-prod/Je Gur Charni - Gauri/Hindi/Videos/Je Gur Charni (Hindi) 2 - Asthai Tutorial (Male scale).mov
+s3://gurbani-prod/Je Gur Charni - Gauri/Hindi/Videos/Je Gur Charni (Hindi) 3 - Antra Tutorial (Male scale).mov
+s3://gurbani-prod/Je Gur Charni - Gauri/Hindi/Videos/Je Gur Charni (Hindi) 4 - Full shabad demonstration (Male scale).mov
+s3://gurbani-prod/Je Gur Charni - Gauri/Hindi/Videos/Je Gur Charni (Hindi) 5 - Some variations (Male scale).mov
+s3://gurbani-prod/Je Gur Charni - Gauri/Hindi/Videos/Je Gur Charni (Hindi) 6 - Asthai Tutorial (female scale).mov
+s3://gurbani-prod/Je Gur Charni - Gauri/Hindi/Videos/Je Gur Charni (Hindi) 7 - Antra Tutorial (Female scale).mov
+s3://gurbani-prod/Je Gur Charni - Gauri/Hindi/Videos/Je Gur Charni (Hindi) 8 - Full shabad demonstration (female scale).mov
+s3://gurbani-prod/Je Gur Charni - Gauri/Hindi/Videos/Je Gur Charni (Hindi) 9 - Some variations (Female scale).mov
+
+s3cmd ls 's3://gurbani-prod/Je Gur Charni - Gauri/Punjabi/Videos'
+
+s3://gurbani-prod/Je Gur Charni - Gauri/Punjabi/Videos/Je Gur Charni (Punjabi) 1 - Introduction.mp4
+s3://gurbani-prod/Je Gur Charni - Gauri/Punjabi/Videos/Je Gur Charni (Punjabi) 2 - Asthai Tutorial (Male Scale).mp4
+s3://gurbani-prod/Je Gur Charni - Gauri/Punjabi/Videos/Je Gur Charni (Punjabi) 3 - Asthai Tutorial (Female scale).mp4
+s3://gurbani-prod/Je Gur Charni - Gauri/Punjabi/Videos/Je Gur Charni (Punjabi) 4 - Antra Tutorial (Male Scale).mp4
+s3://gurbani-prod/Je Gur Charni - Gauri/Punjabi/Videos/Je Gur Charni (Punjabi) 5 - Antra Tutorial (Female scale).mp4
+s3://gurbani-prod/Je Gur Charni - Gauri/Punjabi/Videos/Je Gur Charni (Punjabi) 6 - Some variations (Male scale).mp4
+s3://gurbani-prod/Je Gur Charni - Gauri/Punjabi/Videos/Je Gur Charni (Punjabi) 7 - Some variations (Female scale).mp4
+s3://gurbani-prod/Je Gur Charni - Gauri/Punjabi/Videos/Je Gur Charni (Punjabi) 8 - Full shabad demonstration (female scale).mp4
+s3://gurbani-prod/Je Gur Charni - Gauri/Punjabi/Videos/Je Gur Charni (Punjabi) 9 - AFull shabad demonstration (Male scale).mp4

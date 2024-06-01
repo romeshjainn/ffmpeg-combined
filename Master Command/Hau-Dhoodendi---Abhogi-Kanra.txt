@@ -1,0 +1,29 @@
+s3cmd ls 's3://gurbani-prod/Hau Dhoodendi - Abhogi Kanra/Videos/English/'
+
+s3://gurbani-prod/Hau Dhoodendi - Abhogi Kanra/Videos/English/Hau Dhoodendi (English) 1 - Introduction and Raag Discussion.mp4
+s3://gurbani-prod/Hau Dhoodendi - Abhogi Kanra/Videos/English/Hau Dhoodendi (English) 10 - Antra Tutorial (Male scale).mp4
+s3://gurbani-prod/Hau Dhoodendi - Abhogi Kanra/Videos/English/Hau Dhoodendi (English) 11 - Full shabad demonstration (Male scale).mp4
+s3://gurbani-prod/Hau Dhoodendi - Abhogi Kanra/Videos/English/Hau Dhoodendi (English) 12 - Full shabad demonstration (Female scale).mp4
+s3://gurbani-prod/Hau Dhoodendi - Abhogi Kanra/Videos/English/Hau Dhoodendi (English) 2 - Aroh Avroh and Sapaat Taans.mp4
+s3://gurbani-prod/Hau Dhoodendi - Abhogi Kanra/Videos/English/Hau Dhoodendi (English) 3 - Shabad Meaning.mp4
+s3://gurbani-prod/Hau Dhoodendi - Abhogi Kanra/Videos/English/Hau Dhoodendi (English) 4 - Taal Demonstration.mp4
+s3://gurbani-prod/Hau Dhoodendi - Abhogi Kanra/Videos/English/Hau Dhoodendi (English) 5 - Sapaat Taans Demonstration.mp4
+s3://gurbani-prod/Hau Dhoodendi - Abhogi Kanra/Videos/English/Hau Dhoodendi (English) 6 - Shabad demonstration.mp4
+s3://gurbani-prod/Hau Dhoodendi - Abhogi Kanra/Videos/English/Hau Dhoodendi (English) 7 - Asthai Tutorial (Female scale).mp4
+s3://gurbani-prod/Hau Dhoodendi - Abhogi Kanra/Videos/English/Hau Dhoodendi (English) 8 - Antra Tutorial (Female scale).mp4
+s3://gurbani-prod/Hau Dhoodendi - Abhogi Kanra/Videos/English/Hau Dhoodendi (English) 9 - Asthai Tutorial (Male scale).mp4
+
+s3cmd ls 's3://gurbani-prod/Hau Dhoodendi - Abhogi Kanra/Videos/Punjabi/'
+
+s3://gurbani-prod/Hau Dhoodendi - Abhogi Kanra/Videos/Punjabi/Hau Dhoodendi (Punjabi) 1 - Introduction and Raag Discussion.mov
+s3://gurbani-prod/Hau Dhoodendi - Abhogi Kanra/Videos/Punjabi/Hau Dhoodendi (Punjabi) 10 - Antra Tutorial (Male scale).mov
+s3://gurbani-prod/Hau Dhoodendi - Abhogi Kanra/Videos/Punjabi/Hau Dhoodendi (Punjabi) 11 - Full shabad demonstration (Male scale).mov
+s3://gurbani-prod/Hau Dhoodendi - Abhogi Kanra/Videos/Punjabi/Hau Dhoodendi (Punjabi) 12 - Full shabad demonstration (Female scale).mov
+s3://gurbani-prod/Hau Dhoodendi - Abhogi Kanra/Videos/Punjabi/Hau Dhoodendi (Punjabi) 2 - Aroh and Avroh.mov
+s3://gurbani-prod/Hau Dhoodendi - Abhogi Kanra/Videos/Punjabi/Hau Dhoodendi (Punjabi) 3 - Shabad Meaning.mov
+s3://gurbani-prod/Hau Dhoodendi - Abhogi Kanra/Videos/Punjabi/Hau Dhoodendi (Punjabi) 4 - Taal Demonstration.mov
+s3://gurbani-prod/Hau Dhoodendi - Abhogi Kanra/Videos/Punjabi/Hau Dhoodendi (Punjabi) 5 - Sapaat Taans.mov
+s3://gurbani-prod/Hau Dhoodendi - Abhogi Kanra/Videos/Punjabi/Hau Dhoodendi (Punjabi) 6 - Shabad demonstration.mov
+s3://gurbani-prod/Hau Dhoodendi - Abhogi Kanra/Videos/Punjabi/Hau Dhoodendi (Punjabi) 7 - Asthai Tutorial (Female scale).mov
+s3://gurbani-prod/Hau Dhoodendi - Abhogi Kanra/Videos/Punjabi/Hau Dhoodendi (Punjabi) 8 - Antra Tutorial (Female scale).mov
+s3://gurbani-prod/Hau Dhoodendi - Abhogi Kanra/Videos/Punjabi/Hau Dhoodendi (Punjabi) 9 - Asthai Tutorial (Male scale).mov

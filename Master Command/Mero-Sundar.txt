@@ -1,0 +1,23 @@
+s3cmd ls 's3://gurbani-prod/Mero Sundar/Videos/English/
+
+s3://gurbani-prod/Mero Sundar/Videos/English/Mero Sundar (English) 1 - Introduction.mp4
+s3://gurbani-prod/Mero Sundar/Videos/English/Mero Sundar (English) 2 - Shabad Demonstration.mp4   
+s3://gurbani-prod/Mero Sundar/Videos/English/Mero Sundar (English) 3 - A note on the composition.mp4
+s3://gurbani-prod/Mero Sundar/Videos/English/Mero Sundar (English) 4 - Asthai Tutorial (Male scale).mp4
+s3://gurbani-prod/Mero Sundar/Videos/English/Mero Sundar (English) 5 - Antra Tutorial (Male scale).mp4
+s3://gurbani-prod/Mero Sundar/Videos/English/Mero Sundar (English) 6 - Asthai Tutorial (Female scale).mp4
+s3://gurbani-prod/Mero Sundar/Videos/English/Mero Sundar (English) 7 - Antra Tutorial (Female scale).mp4
+s3://gurbani-prod/Mero Sundar/Videos/English/Mero Sundar (English) 8 - Full shabad demonstration (Female scale).mp4
+s3://gurbani-prod/Mero Sundar/Videos/English/Mero Sundar (English) 9 - Full shabad demonstration (Male scale).mp4
+
+s3cmd ls 's3://gurbani-prod/Mero Sundar/Videos/Punjabi/'
+
+s3://gurbani-prod/Mero Sundar/Videos/Punjabi/Mero Sundar (Punjabi) 1 - Introduction.mov
+s3://gurbani-prod/Mero Sundar/Videos/Punjabi/Mero Sundar (Punjabi) 2 - Shabad demonstration.mov   
+s3://gurbani-prod/Mero Sundar/Videos/Punjabi/Mero Sundar (Punjabi) 3 - A note on the composition.mov
+s3://gurbani-prod/Mero Sundar/Videos/Punjabi/Mero Sundar (Punjabi) 4 - Asthai Tutorial (Male scale).mov
+s3://gurbani-prod/Mero Sundar/Videos/Punjabi/Mero Sundar (Punjabi) 5 - Antra Tutorial (Male scale).mov
+s3://gurbani-prod/Mero Sundar/Videos/Punjabi/Mero Sundar (Punjabi) 6 - Asthai Tutorial (Female scale).mov
+s3://gurbani-prod/Mero Sundar/Videos/Punjabi/Mero Sundar (Punjabi) 7 - Antra Tutorial (Female scale).mov
+s3://gurbani-prod/Mero Sundar/Videos/Punjabi/Mero Sundar (Punjabi) 8 - Full shabad demonstraiton (Female scale).mov
+s3://gurbani-prod/Mero Sundar/Videos/Punjabi/Mero Sundar (Punjabi) 9 - Full shabad demonstration (Male scale).mov

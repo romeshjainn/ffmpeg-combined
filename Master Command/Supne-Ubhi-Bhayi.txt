@@ -1,0 +1,17 @@
+s3cmd ls 's3://gurbani-prod/Supne Ubhi Bhayi/Reference recordings/'
+
+s3://gurbani-prod/Supne Ubhi Bhayi/Reference recordings/Bhai Avtar Singh - Supnai Oobhee Bhaee Gahoi Kee Na Ahchalaa.mp4
+
+s3cmd ls 's3://gurbani-prod/Supne Ubhi Bhayi/Video/'
+
+s3://gurbani-prod/Supne Ubhi Bhayi/Video/Supne Ubhi 1 - Introduction.mp4
+s3://gurbani-prod/Supne Ubhi Bhayi/Video/Supne Ubhi 10 - Full shabad demonstration (Female Scale A#).mp4
+s3://gurbani-prod/Supne Ubhi Bhayi/Video/Supne Ubhi 11 - Outro.mp4
+s3://gurbani-prod/Supne Ubhi Bhayi/Video/Supne Ubhi 2 - Raag Asavari Recap.mp4
+s3://gurbani-prod/Supne Ubhi Bhayi/Video/Supne Ubhi 3 - Asthai Tutorial (Male scale C#).mp4       
+s3://gurbani-prod/Supne Ubhi Bhayi/Video/Supne Ubhi 4 - Comparison to other recordings.mp4        
+s3://gurbani-prod/Supne Ubhi Bhayi/Video/Supne Ubhi 5 - Asthai Variations (Male scale C#).mp4     
+s3://gurbani-prod/Supne Ubhi Bhayi/Video/Supne Ubhi 6 - Antra Tutorial (Male scale C#).mp4        
+s3://gurbani-prod/Supne Ubhi Bhayi/Video/Supne Ubhi 7 - Antra Variations (Male scale C#).mp4      
+s3://gurbani-prod/Supne Ubhi Bhayi/Video/Supne Ubhi 8 - iTabla Pro settings.mp4
+s3://gurbani-prod/Supne Ubhi Bhayi/Video/Supne Ubhi 9 - Full shabad demonstration (Male scale C#).mp4

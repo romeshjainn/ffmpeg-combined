@@ -1,0 +1,38 @@
+s3cmd ls 's3://gurbani-prod/Sajan-Maida-Chaiyaa-Asavari/Hindi/'
+
+s3://gurbani-prod/Sajan-Maida-Chaiyaa-Asavari/Hindi/Sajan Maida Chaiya (Hindi) 1 - Introduction and Raag Discussion.mp4
+s3://gurbani-prod/Sajan-Maida-Chaiyaa-Asavari/Hindi/Sajan Maida Chaiya (Hindi) 10 - Full shabad demonstration - Male scale.mp4
+s3://gurbani-prod/Sajan-Maida-Chaiyaa-Asavari/Hindi/Sajan Maida Chaiya (Hindi) 2 - Composition Introduction.mp4
+s3://gurbani-prod/Sajan-Maida-Chaiyaa-Asavari/Hindi/Sajan Maida Chaiya (Hindi) 3 - Note on the use of Shudh Dha.mp4
+s3://gurbani-prod/Sajan-Maida-Chaiyaa-Asavari/Hindi/Sajan Maida Chaiya (Hindi) 4 - Asthai Tutorial - Male scale.mp4
+s3://gurbani-prod/Sajan-Maida-Chaiyaa-Asavari/Hindi/Sajan Maida Chaiya (Hindi) 5 - Antra Tutorial - Male scale.mp4
+s3://gurbani-prod/Sajan-Maida-Chaiyaa-Asavari/Hindi/Sajan Maida Chaiya (Hindi) 6 - Asthai Tutorial - Female scale.mp4
+s3://gurbani-prod/Sajan-Maida-Chaiyaa-Asavari/Hindi/Sajan Maida Chaiya (Hindi) 7 - Antra Tutorial - Female scale.mp4
+s3://gurbani-prod/Sajan-Maida-Chaiyaa-Asavari/Hindi/Sajan Maida Chaiya (Hindi) 8 - Other ways to sing this composition.mp4
+s3://gurbani-prod/Sajan-Maida-Chaiyaa-Asavari/Hindi/Sajan Maida Chaiya (Hindi) 9 - Full shabad demonstration - Female scale.mp4
+
+s3cmd ls 's3://gurbani-prod/Sajan-Maida-Chaiyaa-Asavari/english/'
+
+s3://gurbani-prod/Sajan-Maida-Chaiyaa-Asavari/english/Sajan Maida Chaiya (English) 1 - Introduction and Raag Discussion.mp4
+s3://gurbani-prod/Sajan-Maida-Chaiyaa-Asavari/english/Sajan Maida Chaiya (English) 10 - Full shabad demonstration - Female scale.mp4
+s3://gurbani-prod/Sajan-Maida-Chaiyaa-Asavari/english/Sajan Maida Chaiya (English) 2 - Shabad Introduction.mp4
+s3://gurbani-prod/Sajan-Maida-Chaiyaa-Asavari/english/Sajan Maida Chaiya (English) 3 - Note about Shudh Dha.mp4
+s3://gurbani-prod/Sajan-Maida-Chaiyaa-Asavari/english/Sajan Maida Chaiya (English) 4 - Asthai Tutorial - Female scale.mp4
+s3://gurbani-prod/Sajan-Maida-Chaiyaa-Asavari/english/Sajan Maida Chaiya (English) 5 - Asthai Tutorial - Male scale.mp4
+s3://gurbani-prod/Sajan-Maida-Chaiyaa-Asavari/english/Sajan Maida Chaiya (English) 6 - Antra Tutorial - Male scale.mp4
+s3://gurbani-prod/Sajan-Maida-Chaiyaa-Asavari/english/Sajan Maida Chaiya (English) 7 - Antra Tutorial - Female scale.mp4
+s3://gurbani-prod/Sajan-Maida-Chaiyaa-Asavari/english/Sajan Maida Chaiya (English) 8 - Different ways to sing this composition.mp4
+s3://gurbani-prod/Sajan-Maida-Chaiyaa-Asavari/english/Sajan Maida Chaiya (English) 9 - Full shabad demonstration - Male scale.mp4
+
+s3cmd ls 's3://gurbani-prod/Sajan-Maida-Chaiyaa-Asavari/Punjabi/'
+
+s3://gurbani-prod/Sajan-Maida-Chaiyaa-Asavari/Punjabi/Sajan Maida Chaiya (Punjabi) 1 - Introduction and Raag Discussion.mp4
+s3://gurbani-prod/Sajan-Maida-Chaiyaa-Asavari/Punjabi/Sajan Maida Chaiya (Punjabi) 10 - Full shabad demonstration - Female scale.mp4
+s3://gurbani-prod/Sajan-Maida-Chaiyaa-Asavari/Punjabi/Sajan Maida Chaiya (Punjabi) 2 - Note about the use of Shudh Da.mp4
+s3://gurbani-prod/Sajan-Maida-Chaiyaa-Asavari/Punjabi/Sajan Maida Chaiya (Punjabi) 3 - Composition Introduction.mp4
+s3://gurbani-prod/Sajan-Maida-Chaiyaa-Asavari/Punjabi/Sajan Maida Chaiya (Punjabi) 4 - Asthai Tutorial - Male scale.mp4
+s3://gurbani-prod/Sajan-Maida-Chaiyaa-Asavari/Punjabi/Sajan Maida Chaiya (Punjabi) 5 - Asthai Tutorial - Female scale.mp4
+s3://gurbani-prod/Sajan-Maida-Chaiyaa-Asavari/Punjabi/Sajan Maida Chaiya (Punjabi) 6 - Antra Tutorial - Female Scale.mp4
+s3://gurbani-prod/Sajan-Maida-Chaiyaa-Asavari/Punjabi/Sajan Maida Chaiya (Punjabi) 7 - Antra Tutorial - Male scale.mp4
+s3://gurbani-prod/Sajan-Maida-Chaiyaa-Asavari/Punjabi/Sajan Maida Chaiya (Punjabi) 8 - Full shabad demonstration - Male scale.mp4
+s3://gurbani-prod/Sajan-Maida-Chaiyaa-Asavari/Punjabi/Sajan Maida Chaiya (Punjabi) 9 - Different ways to sing this composition.mp4

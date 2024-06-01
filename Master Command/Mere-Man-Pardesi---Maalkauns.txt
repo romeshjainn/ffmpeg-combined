@@ -1,0 +1,23 @@
+s3cmd ls 's3://gurbani-prod/Mere Man Pardesi - Maalkauns/English/Videos/'
+
+s3://gurbani-prod/Mere Man Pardesi - Maalkauns/English/Videos/Mere Man Pardesi (English) 1 - Introduction, Raag and Taal Discussion.mp4
+s3://gurbani-prod/Mere Man Pardesi - Maalkauns/English/Videos/Mere Man Pardesi (English) 2 - Aroh Avroh (Female scale).mp4
+s3://gurbani-prod/Mere Man Pardesi - Maalkauns/English/Videos/Mere Man Pardesi (English) 3 - Shabad demonstration (Female scale).mp4
+s3://gurbani-prod/Mere Man Pardesi - Maalkauns/English/Videos/Mere Man Pardesi (English) 4 - Asthai Tutorial (Female scale).mp4
+s3://gurbani-prod/Mere Man Pardesi - Maalkauns/English/Videos/Mere Man Pardesi (English) 5 - Asthai Tutorial (Male scale).mp4
+s3://gurbani-prod/Mere Man Pardesi - Maalkauns/English/Videos/Mere Man Pardesi (English) 6 - Antra Tutorial (Male Scale).mp4
+s3://gurbani-prod/Mere Man Pardesi - Maalkauns/English/Videos/Mere Man Pardesi (English) 7 - Antra Tutorial (Female scale).mp4
+s3://gurbani-prod/Mere Man Pardesi - Maalkauns/English/Videos/Mere Man Pardesi (English) 8 - Full shabad demonstration (Female scale).mp4
+s3://gurbani-prod/Mere Man Pardesi - Maalkauns/English/Videos/Mere Man Pardesi (Punjabi) 9 - Full shabad demonstration (Male scale).mp4
+
+s3cmd ls 's3://gurbani-prod/Mere Man Pardesi - Maalkauns/Punjabi/Videos/'
+
+s3://gurbani-prod/Mere Man Pardesi - Maalkauns/Punjabi/Videos/Mere Man Pardesi (Punjabi) 1 - Introduction, Raag and Taal Discussion.mp4
+s3://gurbani-prod/Mere Man Pardesi - Maalkauns/Punjabi/Videos/Mere Man Pardesi (Punjabi) 2 - Aroh Avroh (Female scale).mp4
+s3://gurbani-prod/Mere Man Pardesi - Maalkauns/Punjabi/Videos/Mere Man Pardesi (Punjabi) 3 - Shabad demonstration (Female scale).mp4
+s3://gurbani-prod/Mere Man Pardesi - Maalkauns/Punjabi/Videos/Mere Man Pardesi (Punjabi) 4 - Asthai Tutorial (Female scale).mp4
+s3://gurbani-prod/Mere Man Pardesi - Maalkauns/Punjabi/Videos/Mere Man Pardesi (Punjabi) 5 - Asthai Tutorial (Male scale).mp4
+s3://gurbani-prod/Mere Man Pardesi - Maalkauns/Punjabi/Videos/Mere Man Pardesi (Punjabi) 6 - Antra Tutorial (Male scale).mp4
+s3://gurbani-prod/Mere Man Pardesi - Maalkauns/Punjabi/Videos/Mere Man Pardesi (Punjabi) 7 - Antra Tutorial (Female scale).mp4
+s3://gurbani-prod/Mere Man Pardesi - Maalkauns/Punjabi/Videos/Mere Man Pardesi (Punjabi) 8 - Full shabad demonstration (Female scale).mp4
+s3://gurbani-prod/Mere Man Pardesi - Maalkauns/Punjabi/Videos/Mere Man Pardesi (Punjabi) 9 - Full shabad demonstration (Male scale).mp4

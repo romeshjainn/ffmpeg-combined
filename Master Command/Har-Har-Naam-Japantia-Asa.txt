@@ -1,0 +1,13 @@
+s3cmd ls 's3://gurbani-prod/Har-Har-Naam-Japantia-Asa/English/Videos/'
+
+s3://gurbani-prod/Har-Har-Naam-Japantia-Asa/English/Videos/Har Har Naam Japantia (English) 1 - Introduction and Raag Discussion.mp4
+s3://gurbani-prod/Har-Har-Naam-Japantia-Asa/English/Videos/Har Har Naam Japantia (English) 2 - Composition Introduction.mp4
+s3://gurbani-prod/Har-Har-Naam-Japantia-Asa/English/Videos/Har Har Naam Japantia (English) 3 - Taal Discussion.mp4
+s3://gurbani-prod/Har-Har-Naam-Japantia-Asa/English/Videos/Har Har Naam Japantia (English) 4 - Asthai Tutorial (Male scale).mp4
+s3://gurbani-prod/Har-Har-Naam-Japantia-Asa/English/Videos/Har Har Naam Japantia (English) 5 - Antra Tutorial (Male Scale).mp4
+s3://gurbani-prod/Har-Har-Naam-Japantia-Asa/English/Videos/Har Har Naam Japantia (English) 6 - Asthai Tutorial (Female Scale).mp4
+s3://gurbani-prod/Har-Har-Naam-Japantia-Asa/English/Videos/Har Har Naam Japantia (English) 7 - Antra Tutorial (Female Scale).mp4
+s3://gurbani-prod/Har-Har-Naam-Japantia-Asa/English/Videos/Har Har Naam Japantia (English) 8 - Full shabad demonstration (Female scale).mp4
+s3://gurbani-prod/Har-Har-Naam-Japantia-Asa/English/Videos/Har Har Naam Japantia (English) 9 - Full shabad demonstration (Male scale).mp4
+
+s3cmd ls 's3://gurbani-prod/Har-Har-Naam-Japantia-Asa/Hindi/Videos/'

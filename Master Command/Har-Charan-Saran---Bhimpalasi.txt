@@ -1,0 +1,50 @@
+s3cmd ls 's3://gurbani-prod/Har Charan Saran - Bhimpalasi/Videos/English/Videos'
+
+s3://gurbani-prod/Har Charan Saran - Bhimpalasi/Videos/English/Videos/Har Charan Saran 1 - Introduction.mp4
+s3://gurbani-prod/Har Charan Saran - Bhimpalasi/Videos/English/Videos/Har Charan Saran 10 - How to go back to the Asthai.mp4
+s3://gurbani-prod/Har Charan Saran - Bhimpalasi/Videos/English/Videos/Har Charan Saran 11 - Antra 2 - Line 1 - Tutorial.mp4
+s3://gurbani-prod/Har Charan Saran - Bhimpalasi/Videos/English/Videos/Har Charan Saran 12 - Antra 2 - Line 2 - Tutorial.mp4
+s3://gurbani-prod/Har Charan Saran - Bhimpalasi/Videos/English/Videos/Har Charan Saran 13 -Remaining Antre - Male scale.mp4
+s3://gurbani-prod/Har Charan Saran - Bhimpalasi/Videos/English/Videos/Har Charan Saran 14 - Asthai Tutorial - Female scale.mp4
+s3://gurbani-prod/Har Charan Saran - Bhimpalasi/Videos/English/Videos/Har Charan Saran 15 - Antra 1 - Tutorial (Female scale).mp4
+s3://gurbani-prod/Har Charan Saran - Bhimpalasi/Videos/English/Videos/Har Charan Saran 16 - Remaining Antre - Female scale.mp4
+s3://gurbani-prod/Har Charan Saran - Bhimpalasi/Videos/English/Videos/Har Charan Saran 2 - Raag Discussion.mp4
+s3://gurbani-prod/Har Charan Saran - Bhimpalasi/Videos/English/Videos/Har Charan Saran 3 - Composition Introduction.mp4
+s3://gurbani-prod/Har Charan Saran - Bhimpalasi/Videos/English/Videos/Har Charan Saran 4 - Note about the use of Shudh Ni.mp4
+s3://gurbani-prod/Har Charan Saran - Bhimpalasi/Videos/English/Videos/Har Charan Saran 6 - Asthai Line 2 - Tutorial.mp4
+s3://gurbani-prod/Har Charan Saran - Bhimpalasi/Videos/English/Videos/Har Charan Saran 7 - How to pickup the Antra.mp4
+s3://gurbani-prod/Har Charan Saran - Bhimpalasi/Videos/English/Videos/Har Charan Saran 8 - Antra Line 1 - Tutorial.mp4
+s3://gurbani-prod/Har Charan Saran - Bhimpalasi/Videos/English/Videos/Har Charan Saran 9 - Antra Line 2 - Tutorial.mp4
+s3://gurbani-prod/Har Charan Saran - Bhimpalasi/Videos/English/Videos/Har Charan saran 5 - Asthai Line 1 - Tutorial.mp4
+
+s3cmd ls 's3://gurbani-prod/Har Charan Saran - Bhimpalasi/Videos/Hindi/Videos'
+
+s3://gurbani-prod/Har Charan Saran - Bhimpalasi/Videos/Hindi/Videos/Har Charan Saran 1 - Har Charan (Hindi) - Introduction.mp4
+s3://gurbani-prod/Har Charan Saran - Bhimpalasi/Videos/Hindi/Videos/Har Charan Saran 10 - Har Charan (Hindi) - Antra 1 Tutorial (Female scale).mp4
+s3://gurbani-prod/Har Charan Saran - Bhimpalasi/Videos/Hindi/Videos/Har Charan Saran 11 - Har Charan (Hindi) - Antra 2 Tutorial (Female scale).mp4
+s3://gurbani-prod/Har Charan Saran - Bhimpalasi/Videos/Hindi/Videos/Har Charan Saran 12 - Har Charan (Hindi) - Remainaing Antre (Female scale).mp4
+s3://gurbani-prod/Har Charan Saran - Bhimpalasi/Videos/Hindi/Videos/Har Charan Saran 2 - Har Charan (Hindi) - Raag Discussion.mp4
+s3://gurbani-prod/Har Charan Saran - Bhimpalasi/Videos/Hindi/Videos/Har Charan Saran 3 - Har Charan (Hindi) - Composition Introduction.mp4
+s3://gurbani-prod/Har Charan Saran - Bhimpalasi/Videos/Hindi/Videos/Har Charan Saran 4 - Har Charan (Hindi) - Asthai Tutorial (Male scale).mp4
+s3://gurbani-prod/Har Charan Saran - Bhimpalasi/Videos/Hindi/Videos/Har Charan Saran 5 - Har Charan (Hindi) - How to go into the Antra.mp4
+s3://gurbani-prod/Har Charan Saran - Bhimpalasi/Videos/Hindi/Videos/Har Charan Saran 6 - Har Charan (Hindi) - Antra 1 Tutorial (Male scale).mp4
+s3://gurbani-prod/Har Charan Saran - Bhimpalasi/Videos/Hindi/Videos/Har Charan Saran 7 -Har Charan (Hindi) - Antra 2 Tutorial (Male scale).mp4
+s3://gurbani-prod/Har Charan Saran - Bhimpalasi/Videos/Hindi/Videos/Har Charan Saran 8 - Har Charan (Hindi) - Remainaing Antre (Male scale).mp4
+s3://gurbani-prod/Har Charan Saran - Bhimpalasi/Videos/Hindi/Videos/Har Charan Saran 9 - Har Charan (Hindi) - Asthai Tutorial (Female scale).mp4
+
+s3cmd ls 's3://gurbani-prod/Har Charan Saran - Bhimpalasi/Videos/Punjabi/Videos'
+
+s3://gurbani-prod/Har Charan Saran - Bhimpalasi/Videos/Punjabi/Videos/Har Charan Saran 1 - Har Charan (Punjabi) - Introduction.mp4
+s3://gurbani-prod/Har Charan Saran - Bhimpalasi/Videos/Punjabi/Videos/Har Charan Saran 10 - Har Charan (Punjabi) - Asthai Tutorial (Female scale).mp4
+s3://gurbani-prod/Har Charan Saran - Bhimpalasi/Videos/Punjabi/Videos/Har Charan Saran 11 - Har Charan (Punjabi) - Antra 1 Tutorial (Female scale).mp4
+s3://gurbani-prod/Har Charan Saran - Bhimpalasi/Videos/Punjabi/Videos/Har Charan Saran 12 - Har Charan (Punjabi) - How to come back into the Asthai (Female scale).mp4
+s3://gurbani-prod/Har Charan Saran - Bhimpalasi/Videos/Punjabi/Videos/Har Charan Saran 13 - Har Charan (Punjabi) - Antra 2 Tutorial (Female scale).mp4
+s3://gurbani-prod/Har Charan Saran - Bhimpalasi/Videos/Punjabi/Videos/Har Charan Saran 14 - Har Charan (Punjabi) - Remainaing Antre (Female scale).mp4
+s3://gurbani-prod/Har Charan Saran - Bhimpalasi/Videos/Punjabi/Videos/Har Charan Saran 2 - Har Charan (Punjabi) -Raag Discussion.mp4
+s3://gurbani-prod/Har Charan Saran - Bhimpalasi/Videos/Punjabi/Videos/Har Charan Saran 3 - Har Charan (Punjabi) -Asthai Demonstration (Male scale).mp4
+s3://gurbani-prod/Har Charan Saran - Bhimpalasi/Videos/Punjabi/Videos/Har Charan Saran 4 - Har Charan (Punjabi) - Note on composition.mp4
+s3://gurbani-prod/Har Charan Saran - Bhimpalasi/Videos/Punjabi/Videos/Har Charan Saran 5 - Har Charan (Punjabi) - Asthai Tutorial (Male Scale).mp4
+s3://gurbani-prod/Har Charan Saran - Bhimpalasi/Videos/Punjabi/Videos/Har Charan Saran 6 - Har Charan (Punjabi) - Antra 1  Tutorial (Male Scale).mp4
+s3://gurbani-prod/Har Charan Saran - Bhimpalasi/Videos/Punjabi/Videos/Har Charan Saran 7 - Har Charan (Punjabi) - How to come back into the Asthai.mp4
+s3://gurbani-prod/Har Charan Saran - Bhimpalasi/Videos/Punjabi/Videos/Har Charan Saran 8 - Har Charan (Punjabi) - Antra 2 Tutorial (Male scale).mp4
+s3://gurbani-prod/Har Charan Saran - Bhimpalasi/Videos/Punjabi/Videos/Har Charan Saran 9 - Har Charan (Punjabi) - Remainaing Antre (Male scale).mp4

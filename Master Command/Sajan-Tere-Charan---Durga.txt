@@ -1,0 +1,40 @@
+s3cmd ls 's3://gurbani-prod/Sajan Tere Charan - Durga/English/Videos'
+
+s3://gurbani-prod/Sajan Tere Charan - Durga/English/Videos/Saajan Tere 1 - Introduction.mp4
+s3://gurbani-prod/Sajan Tere Charan - Durga/English/Videos/Saajan Tere 10 - .mp4
+s3://gurbani-prod/Sajan Tere Charan - Durga/English/Videos/Saajan Tere 11 - Full shabad demonstration - Female scale.mp4
+s3://gurbani-prod/Sajan Tere Charan - Durga/English/Videos/Saajan Tere 12 - .mp4
+s3://gurbani-prod/Sajan Tere Charan - Durga/English/Videos/Saajan Tere 2 - Shabad Discussion.mp4  
+s3://gurbani-prod/Sajan Tere Charan - Durga/English/Videos/Saajan Tere 3 - Asthai Line 1 - Tutorial.mp4
+s3://gurbani-prod/Sajan Tere Charan - Durga/English/Videos/Saajan Tere 4 - Asthai Line 2 - Tutorial.mp4
+s3://gurbani-prod/Sajan Tere Charan - Durga/English/Videos/Saajan Tere 5 - Antra Line 1 - Tutorial .mp4
+s3://gurbani-prod/Sajan Tere Charan - Durga/English/Videos/Saajan Tere 6 - Antra Line 2 - Tutorial.mp4
+s3://gurbani-prod/Sajan Tere Charan - Durga/English/Videos/Saajan Tere 7 - Aroh Avroh - Female scale.mp4
+s3://gurbani-prod/Sajan Tere Charan - Durga/English/Videos/Saajan Tere 8 - Asthai Tutorial - Female scale.mp4
+s3://gurbani-prod/Sajan Tere Charan - Durga/English/Videos/Saajan Tere 9 - Antra Tutorial - Female scale.mp4
+
+s3cmd ls 's3://gurbani-prod/Sajan Tere Charan - Durga/Hindi/Videos'
+
+s3://gurbani-prod/Sajan Tere Charan - Durga/Hindi/Videos/Saajan Tere (Hindi) 1 - Introduction.mp4
+s3://gurbani-prod/Sajan Tere Charan - Durga/Hindi/Videos/Saajan Tere (Hindi) 10 - Full shabad demonstration - Female scale.mp4
+s3://gurbani-prod/Sajan Tere Charan - Durga/Hindi/Videos/Saajan Tere (Hindi) 2 - Aroh Avroh - Male scale.mp4
+s3://gurbani-prod/Sajan Tere Charan - Durga/Hindi/Videos/Saajan Tere (Hindi) 3 - Asthai Tutorial (Male scale).mp4
+s3://gurbani-prod/Sajan Tere Charan - Durga/Hindi/Videos/Saajan Tere (Hindi) 4 - Antra Tutorial (Male scale).mp4
+s3://gurbani-prod/Sajan Tere Charan - Durga/Hindi/Videos/Saajan Tere (Hindi) 5 - Aroh Avroh - Female scale.mp4
+s3://gurbani-prod/Sajan Tere Charan - Durga/Hindi/Videos/Saajan Tere (Hindi) 6 - Asthai Tutorial - Female scale.mp4
+s3://gurbani-prod/Sajan Tere Charan - Durga/Hindi/Videos/Saajan Tere (Hindi) 7 - Antra Tutorial - Female scale.mp4
+s3://gurbani-prod/Sajan Tere Charan - Durga/Hindi/Videos/Saajan Tere (Hindi) 8 - Variations.mp4   
+s3://gurbani-prod/Sajan Tere Charan - Durga/Hindi/Videos/Saajan Tere (Hindi) 9  - Full shabad demonstration - Male scale.mp4
+
+s3cmd ls 's3://gurbani-prod/Sajan Tere Charan - Durga/Punjabi/Videos'
+
+s3://gurbani-prod/Sajan Tere Charan - Durga/Punjabi/Videos/Saajan Tere (Punjabi) 1 - Introduction.mov
+s3://gurbani-prod/Sajan Tere Charan - Durga/Punjabi/Videos/Saajan Tere (Punjabi) 10 - Full shabad demonstration - Female scale.mov
+s3://gurbani-prod/Sajan Tere Charan - Durga/Punjabi/Videos/Saajan Tere (Punjabi) 2 - Aroh Avroh - Male scale.mov
+s3://gurbani-prod/Sajan Tere Charan - Durga/Punjabi/Videos/Saajan Tere (Punjabi) 3 - Asthai Tutorial (Male scale).mov
+s3://gurbani-prod/Sajan Tere Charan - Durga/Punjabi/Videos/Saajan Tere (Punjabi) 4  - Antra Tutorial (Male scale).mov
+s3://gurbani-prod/Sajan Tere Charan - Durga/Punjabi/Videos/Saajan Tere (Punjabi) 5 - Aroh Avroh - Female scale.mov
+s3://gurbani-prod/Sajan Tere Charan - Durga/Punjabi/Videos/Saajan Tere (Punjabi) 6 - Asthai Tutorial - Female scale.mov
+s3://gurbani-prod/Sajan Tere Charan - Durga/Punjabi/Videos/Saajan Tere (Punjabi) 7 - Antra Tutorial - Female scale.mov
+s3://gurbani-prod/Sajan Tere Charan - Durga/Punjabi/Videos/Saajan Tere (Punjabi) 8 - Variations.mov
+s3://gurbani-prod/Sajan Tere Charan - Durga/Punjabi/Videos/Saajan Tere (Punjabi) 9 - Full shabad demonstration - Male scale.mov

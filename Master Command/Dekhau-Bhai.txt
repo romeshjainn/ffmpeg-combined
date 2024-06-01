@@ -1,0 +1,21 @@
+english Video
+
+s3://gurbani-prod/Dekhau Bhai/Videos/English/Dekho Bhai (English) 1 - Introduction.mp4
+s3://gurbani-prod/Dekhau Bhai/Videos/English/Dekho Bhai (English) 2 - Composition Introduction.mp4
+s3://gurbani-prod/Dekhau Bhai/Videos/English/Dekho Bhai (English) 3 - Asthai Tutorial (Male scale).mp4
+s3://gurbani-prod/Dekhau Bhai/Videos/English/Dekho Bhai (English) 4 - Asthai Tutorial (Female scale).mp4
+s3://gurbani-prod/Dekhau Bhai/Videos/English/Dekho Bhai (English) 5 - Antra Tutorial (Female scale).mp4
+s3://gurbani-prod/Dekhau Bhai/Videos/English/Dekho Bhai (English) 6 - Antra Tutorial (Male scale).mp4
+s3://gurbani-prod/Dekhau Bhai/Videos/English/Dekho Bhai (English) 7 - Full shabad demonstration (Male scale).mp4
+s3://gurbani-prod/Dekhau Bhai/Videos/English/Dekho Bhai (English) 8 - Full shabad demonstration (Female scale).mp4
+
+Punjabi
+
+s3://gurbani-prod/Dekhau Bhai/Videos/Punjabi/Dekho Bhai (Punjabi) 1 - Introduction.mov
+s3://gurbani-prod/Dekhau Bhai/Videos/Punjabi/Dekho Bhai (Punjabi) 2 - Composition Introduction.mov
+s3://gurbani-prod/Dekhau Bhai/Videos/Punjabi/Dekho Bhai (Punjabi) 3 - Asthai Tutorial (Male scale).mov
+s3://gurbani-prod/Dekhau Bhai/Videos/Punjabi/Dekho Bhai (Punjabi) 4 - Asthai Tutorial (Female scale).mov
+s3://gurbani-prod/Dekhau Bhai/Videos/Punjabi/Dekho Bhai (Punjabi) 5 - Antra Tutorial (Female scale).mov
+s3://gurbani-prod/Dekhau Bhai/Videos/Punjabi/Dekho Bhai (Punjabi) 6 - Antra Tutorial (Male scale).mov
+s3://gurbani-prod/Dekhau Bhai/Videos/Punjabi/Dekho Bhai (Punjabi) 7 - Full shabad demonstration (Male scale).mov
+s3://gurbani-prod/Dekhau Bhai/Videos/Punjabi/Dekho Bhai (Punjabi) 8 - Full shabad demonstration (Female scale).mov

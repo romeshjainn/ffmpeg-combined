@@ -1,0 +1,32 @@
+s3cmd ls 's3://gurbani-prod/Oha Prem Piri - Asa/'
+
+s3://gurbani-prod/Oha Prem Piri - Asa/Oha Prem Piri - Bhai Baljeet Singh Namdhari.mp4
+
+s3cmd ls 's3://gurbani-prod/Oha Prem Piri - Asa/English/Videos/'
+
+s3://gurbani-prod/Oha Prem Piri - Asa/English/Videos/Oha Prem Piri (English) 1 - Introduction and Raag Discussion.mp4
+s3://gurbani-prod/Oha Prem Piri - Asa/English/Videos/Oha Prem Piri (English) 10 - Full shabad demonstration (Female scale).mp4
+s3://gurbani-prod/Oha Prem Piri - Asa/English/Videos/Oha Prem Piri (English) 11 - Full shabad demonstration (Male scale).mp4
+s3://gurbani-prod/Oha Prem Piri - Asa/English/Videos/Oha Prem Piri (English) 12 - Dugan and Tihai.mp4
+s3://gurbani-prod/Oha Prem Piri - Asa/English/Videos/Oha Prem Piri (English) 2 - Taal Discussion.mp4
+s3://gurbani-prod/Oha Prem Piri - Asa/English/Videos/Oha Prem Piri (English) 3 - Shabad demonstration.mp4
+s3://gurbani-prod/Oha Prem Piri - Asa/English/Videos/Oha Prem Piri (English) 4 - Asthai Tutorial (Male Scale).mp4
+s3://gurbani-prod/Oha Prem Piri - Asa/English/Videos/Oha Prem Piri (English) 5 - Asthai Variations (Male scale).mp4
+s3://gurbani-prod/Oha Prem Piri - Asa/English/Videos/Oha Prem Piri (English) 6 - Antra Tutorial (Male Scale).mp4
+s3://gurbani-prod/Oha Prem Piri - Asa/English/Videos/Oha Prem Piri (English) 7 - Asthai Tutorial (Female scale).mp4
+s3://gurbani-prod/Oha Prem Piri - Asa/English/Videos/Oha Prem Piri (English) 8 - Asthai Variations.mp4
+s3://gurbani-prod/Oha Prem Piri - Asa/English/Videos/Oha Prem Piri (English) 9 - Antra Tutorial (Female Scale).mp4
+
+s3cmd ls 's3://gurbani-prod/Oha Prem Piri - Asa/Punjabi/Videos/'
+
+s3://gurbani-prod/Oha Prem Piri - Asa/Punjabi/Videos/Oha Prem Piri (Punjabi) 1 - Introduction and Raag Discussion.mp4
+s3://gurbani-prod/Oha Prem Piri - Asa/Punjabi/Videos/Oha Prem Piri (Punjabi) 10 - Full shabad demonstration (Male scale).mp4
+s3://gurbani-prod/Oha Prem Piri - Asa/Punjabi/Videos/Oha Prem Piri (Punjabi) 11 - Full shabad demonstration (Male scale).mp4
+s3://gurbani-prod/Oha Prem Piri - Asa/Punjabi/Videos/Oha Prem Piri (Punjabi) 12 - Dugan and Tihai.mp4
+s3://gurbani-prod/Oha Prem Piri - Asa/Punjabi/Videos/Oha Prem Piri (Punjabi) 2 - Taal Discussion.mp4
+s3://gurbani-prod/Oha Prem Piri - Asa/Punjabi/Videos/Oha Prem Piri (Punjabi) 4 - Asthai Tutorial (Male Scale).mp4
+s3://gurbani-prod/Oha Prem Piri - Asa/Punjabi/Videos/Oha Prem Piri (Punjabi) 5 - Asthai Variations (Male Scale).mp4
+s3://gurbani-prod/Oha Prem Piri - Asa/Punjabi/Videos/Oha Prem Piri (Punjabi) 6 - Antra Tutorial (Male Scale).mp4
+s3://gurbani-prod/Oha Prem Piri - Asa/Punjabi/Videos/Oha Prem Piri (Punjabi) 7 - Asthai Tutorial (Female Scale).mp4
+s3://gurbani-prod/Oha Prem Piri - Asa/Punjabi/Videos/Oha Prem Piri (Punjabi) 8 - Asthai Variations (Female Scale).mp4
+s3://gurbani-prod/Oha Prem Piri - Asa/Punjabi/Videos/Oha Prem Piri (Punjabi) 9 - Antra Tutorial (Female Scale).mp4

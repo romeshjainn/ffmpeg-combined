@@ -1,0 +1,38 @@
+ssh root@170.64.201.135
+Gr4trJ5cf2yi6!A
+
+
+1080
+
+s3cmd ls 's3://gurbani-prod/Dekh Phool Phool/Video' - 'Completed' - PROCESSING without permission flag
+
+s3cmd ls 's3://gurbani-prod/Dekhau Bhai/Videos/English' - list created
+s3cmd ls 's3://gurbani-prod/Ghol Ghumai - Tukhari/English/Videos/' - list created
+s3cmd ls 's3://gurbani-prod/Hamari-Pyari-(Hameer)/' - list created
+s3cmd ls 's3://gurbani-prod/Har Charan Saran - Bhimpalasi/Videos/English/Videos' - list created
+s3cmd ls 's3://gurbani-prod/Har-Har-Naam-Japantia-Asa/English/Videos/' - list created
+s3cmd ls 's3://gurbani-prod/Hau Dhoodendi - Abhogi Kanra/' - list created
+s3cmd ls 's3://gurbani-prod/Hum Ghar Sajan Aaye/Videos/' - list created
+s3cmd ls 's3://gurbani-prod/Je Gur Charni - Gauri/English/Videos' - list created
+s3cmd ls 's3://gurbani-prod/Ghungroo-Vaaje/' - list created
+s3cmd ls 's3://gurbani-prod/Kahe-Re-Ban/'
+s3cmd ls 's3://gurbani-prod/Kavan-Bani-Ri-Teri-Laali/' - list created
+s3cmd ls 's3://gurbani-prod/Keerat Karan Saran Manmohan/Videos/' - list created
+s3cmd ls 's3://gurbani-prod/Meethe Tere Bol/Videos/'
+s3cmd ls 's3://gurbani-prod/Mere Man Pardesi - Maalkauns/English/Videos/' - list created
+s3cmd ls 's3://gurbani-prod/Mero Sundar/Videos/' - list created
+s3cmd ls 's3://gurbani-prod/Mith Bolra Ji - Zila/' - list created
+s3cmd ls 's3://gurbani-prod/Oha Prem Piri - Asa/' - list created
+s3cmd ls 's3://gurbani-prod/Man-Mere-Bhoole-Khamaaj/' - list created
+s3cmd ls 's3://gurbani-prod/Pavat Raliya/' - list created
+s3cmd ls 's3://gurbani-prod/Rajan Kaun - Bhairvi/Videos/English/' - list created
+s3cmd ls 's3://gurbani-prod/Rasna Gun Gopal - Bilaaskhani Todi/Videos/' - list created   
+s3cmd ls 's3://gurbani-prod/Sajan Tere Charan - Durga/' - list created
+s3cmd ls 's3://gurbani-prod/Sajan-Maida-Chaiyaa-Asavari/' - list created
+s3cmd ls 's3://gurbani-prod/Sant Payi Gur - Bilawal/' - list created
+s3cmd ls 's3://gurbani-prod/Supne Ubhi Bhayi/' - list created
+s3cmd ls 's3://gurbani-prod/Tu Thaakaro Bairaagro/' - list created
+s3cmd ls 's3://gurbani-prod/Tu har bhaj/'
+
+s3cmd ls 's3://gurbani-prod/Tu-Har-Bhaj-English/'
+
